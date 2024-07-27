@@ -1,0 +1,13 @@
+filename = 'Ping-Wheel-1.9.1-forge-1.20.1.jar'
+name = 'Ping Wheel'
+side = 'both'
+
+[download]
+hash = '8619e28c901db5975925c3aacdd9353de3d3969e310730edc000ba71bbc7d41577ce931c1e6ee725fcf7d7f31f21fda48e89ae0dcc1e9d7c2efc4cc16c559a58'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QQXAdCzh/versions/hIPuyoXC/Ping-Wheel-1.9.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QQXAdCzh'
+version = 'hIPuyoXC'
