@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-07-27 19:53:12 +0200"
-    },
-    "done": true
-  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-07-27 19:53:11 +0200"
@@ -68,12 +62,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-07-27 19:53:12 +0200"
-    },
-    "done": true
-  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-07-27 19:53:11 +0200"
@@ -116,18 +104,6 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-07-27 19:53:12 +0200"
-    },
-    "done": true
-  },
-  "rats:root": {
-    "criteria": {
-      "tick": "2024-07-27 19:53:12 +0200"
-    },
-    "done": true
-  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2024-07-27 19:53:11 +0200"
@@ -149,12 +125,6 @@
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-07-27 19:53:11 +0200"
-    },
-    "done": true
-  },
-  "tempad:tempad": {
-    "criteria": {
-      "requirement": "2024-07-27 19:57:05 +0200"
     },
     "done": true
   },
@@ -200,12 +170,6 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-07-27 19:53:12 +0200"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2024-07-27 19:53:11 +0200"
@@ -224,6 +188,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-27 19:53:12 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-07-27 19:53:12 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-07-27 19:53:12 +0200"
+    },
+    "done": true
+  },
+  "rats:root": {
+    "criteria": {
+      "tick": "2024-07-27 19:53:12 +0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-07-27 19:53:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-07-27 19:53:25 +0200",
@@ -231,6 +225,24 @@
       "minecraft:cold_ocean": "2024-07-27 19:56:05 +0200"
     },
     "done": false
+  },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2024-07-27 19:57:05 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-07-27 20:19:23 +0200"
+    },
+    "done": true
+  },
+  "createrailwaysnavigator:navigator": {
+    "criteria": {
+      "requirement": "2024-07-27 20:19:54 +0200"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
