@@ -5,7 +5,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <details>
 <summary>Список Модов / Modlist</summary>
 <ul>
-	<li>3d-Skin-Layers</li>
+<li>3d-Skin-Layers</li>
 <li>Advanced Peripherals</li>
 <li>Advancement Plaques</li>
 <li>Alex's Caves Delight</li>
@@ -53,7 +53,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create Railways Navigator</li>
 <li>Create Slice & Dice</li>
 <li>Create Stuff & Additions</li>
-<li>Create: things and misc</li>
+<li>Create: Things and Misc</li>
 <li>Create: Bells & Whistles</li>
 <li>Create: Central Kitchen</li>
 <li>Create: Connected</li>
@@ -74,6 +74,9 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create</li>
 <li>Cristel Lib</li>
 <li>Curios API</li>
+<li>Dynamic Lights</li>
+<li>Embeddium++</li>
+<li>Embeddium</li>
 <li>Emojiful</li>
 <li>End's Delight</li>
 <li>Enhanced Boss Bars</li>
@@ -89,8 +92,13 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Iceberg</li>
 <li>Immersive Melodies</li>
 <li>Immersive Paintings</li>
+<li>Jade Addons</li>
+<li>Jade</li>
 <li>Journeymap</li>
 <li>Joy of Painting</li>
+<li>Just Enough Items</li>
+<li>Just Enough Professions (JEP)</li>
+<li>Just Enough Resources</li>
 <li>Kotlin for Forge</li>
 <li>Lithostitched</li>
 <li>Lootr</li>
@@ -123,9 +131,6 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Rats</li>
 <li>Resourceful Lib</li>
 <li>Resourcefulconfig</li>
-<li>Roughly Enough Items (REI)</li>
-<li>Roughly Enough Professions</li>
-<li>Rubidium</li>
 <li>SOL: Valheim</li>
 <li>Searchables</li>
 <li>Simple Voice Chat</li>
@@ -135,9 +140,10 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Sophisticated Core</li>
 <li>Sophisticated Storage</li>
 <li>Sound Physics Remastered</li>
+<li>spark</li>
 <li>Starlight</li>
 <li>Storage Delight</li>
-<li>spark</li>
+<li>Storage Drawers</li>
 <li>SuperMartijn642's Config Library</li>
 <li>SuperMartijn642's Core Lib</li>
 <li>Tempad</li>
@@ -163,6 +169,5 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>YUNG's Better Witch Huts</li>
 <li>YUNG's Bridges</li>
 <li>YUNG's Extras</li>
-<li>Zume</li>
 </ul>
 </details>
