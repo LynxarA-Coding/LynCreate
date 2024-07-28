@@ -1,0 +1,13 @@
+filename = '[Forge]CTOV-v3.4.5.jar'
+name = "ChoiceTheorem's Overhauled Village"
+side = 'server'
+
+[download]
+hash = 'bdbaab83f85cf23f244ce418679eecb426e76e60f96819065c208c4a766415a6bb788666909e0d1475fd38f09be29c3dcd744bae9f9057a9f19289960704827a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fgmhI8kH/versions/Hxo3cge6/%5BForge%5DCTOV-v3.4.5.jar'
+
+[update.modrinth]
+mod-id = 'fgmhI8kH'
+version = 'Hxo3cge6'

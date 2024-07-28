@@ -1,0 +1,13 @@
+filename = 'storagedelight-2024.07.23-1.20.1-forge.jar'
+name = "Storage Delight - Farmer's Delight"
+side = 'both'
+
+[download]
+hash = 'bda8e673a168741d0dae561d2eb55915c271624d278c396897bd06435240c611b685c8fec97949db8ab68d9d833cc71b144611be9aff238d5e244dd6b3b6a27c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LTTvOp5L/versions/7upKP7jR/storagedelight-2024.07.23-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'LTTvOp5L'
+version = '7upKP7jR'

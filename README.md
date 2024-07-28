@@ -5,6 +5,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <details>
 <summary>Список Модов / Modlist</summary>
 <ul>
+<li>.connector</li>
 <li>3d-Skin-Layers</li>
 <li>Advanced Peripherals</li>
 <li>Advancement Plaques</li>
@@ -39,6 +40,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Controlling</li>
 <li>CoroUtil</li>
 <li>CraftingTweaks</li>
+<li>createtabfix</li>
 <li>Create : Encased</li>
 <li>Create Big Cannons</li>
 <li>Create Crafts & Additions</li>
@@ -53,7 +55,6 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create Railways Navigator</li>
 <li>Create Slice & Dice</li>
 <li>Create Stuff & Additions</li>
-<li>Create: Things and Misc</li>
 <li>Create: Bells & Whistles</li>
 <li>Create: Central Kitchen</li>
 <li>Create: Connected</li>
@@ -70,6 +71,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create: Steam 'n' Rails</li>
 <li>Create: Structures</li>
 <li>Create: The Factory Must Grow</li>
+<li>Create: things and misc</li>
 <li>Create: Train Perspective</li>
 <li>Create</li>
 <li>Cristel Lib</li>
@@ -85,6 +87,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>EntityCulling</li>
 <li>Farmer's Delight</li>
 <li>Ferrite Core</li>
+<li>Forgified Fabric API</li>
 <li>GeckoLib 4</li>
 <li>Gravestone Mod</li>
 <li>Guard Villagers</li>
@@ -135,6 +138,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Searchables</li>
 <li>Simple Voice Chat</li>
 <li>Simply Swords</li>
+<li>Sinytra Connector</li>
 <li>Sleep</li>
 <li>Sophisticated Backpacks</li>
 <li>Sophisticated Core</li>
@@ -169,5 +173,6 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>YUNG's Better Witch Huts</li>
 <li>YUNG's Bridges</li>
 <li>YUNG's Extras</li>
+<li>Zume</li>
 </ul>
 </details>
