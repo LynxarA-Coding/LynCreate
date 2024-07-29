@@ -31,6 +31,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>CTOV - More villagers compat</li>
 <li>CTOV - Rats Compat</li>
 <li>Chat Heads</li>
+<li>ChatPlus</li>
 <li>Chefs Delight</li>
 <li>Chipped</li>
 <li>ChoiceTheorem's Overhauled Village</li>
@@ -66,12 +67,13 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create: Interactive</li>
 <li>Create: Interiors</li>
 <li>Create: New Age</li>
+<li>Create: Numismatics Crafts</li>
 <li>Create: Numismatics</li>
 <li>Create: Power Loader</li>
 <li>Create: Steam 'n' Rails</li>
 <li>Create: Structures</li>
 <li>Create: The Factory Must Grow</li>
-<li>Create: things and misc</li>
+<li>Create: Things and misc</li>
 <li>Create: Train Perspective</li>
 <li>Create</li>
 <li>Cristel Lib</li>
@@ -161,6 +163,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Valkyrien Skies 2</li>
 <li>Waystones</li>
 <li>What Are They Up To</li>
+<li>Wurst Client</li>
 <li>YUNG's API</li>
 <li>YUNG's Better Desert Temples</li>
 <li>YUNG's Better Dungeons</li>
