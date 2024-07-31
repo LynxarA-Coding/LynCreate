@@ -1,0 +1,24 @@
+{
+  "id": "Rayredmed_1635-71-3029",
+  "name": "Rayredmed",
+  "groupName": ":Waystones",
+  "displayId": "112d82e6-2b0b-4cd4-9fef-c78cd4cb914c",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 1635,
+  "y": 71,
+  "z": 3029,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
