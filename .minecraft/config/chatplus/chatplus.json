@@ -87,8 +87,8 @@
     "keyPeekChat": "key.keyboard.p",
     "translatorEnabled": true,
     "translatorRegexes": [],
-    "translateTo": "Auto Detect",
-    "translateSelf": "Auto Detect",
+    "translateTo": "Russian",
+    "translateSelf": "Russian",
     "translateSpeak": "English",
     "translateKeepOnAfterChatClose": true,
     "translateKey": {

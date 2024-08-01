@@ -1,0 +1,24 @@
+{
+  "id": "Carmed_-388-79-820",
+  "name": "Carmed",
+  "groupName": ":Waystones",
+  "displayId": "60478105-4c83-4573-ac46-87d50dc097b9",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -388,
+  "y": 79,
+  "z": 820,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
