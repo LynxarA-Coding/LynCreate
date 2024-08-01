@@ -56,6 +56,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create Railways Navigator</li>
 <li>Create Slice & Dice</li>
 <li>Create Stuff & Additions</li>
+<li>Create Track Map</li>
 <li>Create: Bells & Whistles</li>
 <li>Create: Central Kitchen</li>
 <li>Create: Connected</li>
@@ -64,7 +65,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create: Dreams & Desires</li>
 <li>Create: Factory</li>
 <li>Create: Framed</li>
-<li>Create: Interactive</li>
+<li>Create: Garnished</li>
 <li>Create: Interiors</li>
 <li>Create: New Age</li>
 <li>Create: Numismatics Crafts</li>
@@ -73,11 +74,14 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Create: Steam 'n' Rails</li>
 <li>Create: Structures</li>
 <li>Create: The Factory Must Grow</li>
-<li>Create: Things and misc</li>
+<li>Create: things and misc</li>
 <li>Create: Train Perspective</li>
 <li>Create</li>
 <li>Cristel Lib</li>
 <li>Curios API</li>
+<li>Delightful Burgers</li>
+<li>Delightful Sandwiches</li>
+<li>Delightful</li>
 <li>Dynamic Lights</li>
 <li>Embeddium++</li>
 <li>Embeddium</li>
@@ -89,6 +93,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>EntityCulling</li>
 <li>Farmer's Delight</li>
 <li>Ferrite Core</li>
+<li>Festive Delight</li>
 <li>Forgified Fabric API</li>
 <li>GeckoLib 4</li>
 <li>Gravestone Mod</li>
@@ -105,6 +110,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Just Enough Professions (JEP)</li>
 <li>Just Enough Resources</li>
 <li>Kotlin for Forge</li>
+<li>Leaves Be Gone</li>
 <li>Lithostitched</li>
 <li>Lootr</li>
 <li>Macaw's Bridges</li>
@@ -119,6 +125,7 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Macaw's Trapdoors</li>
 <li>Macaw's Windows</li>
 <li>Memory Leak Fix</li>
+<li>Miner's Delight</li>
 <li>MmmMmmMmmmmm</li>
 <li>ModernFix</li>
 <li>Moonlight Library</li>
@@ -133,10 +140,12 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Ocean's Delight</li>
 <li>Patchouli</li>
 <li>Ping Wheel</li>
+<li>Puzzles Lib</li>
 <li>Rats</li>
 <li>Resourceful Lib</li>
 <li>Resourcefulconfig</li>
 <li>SOL: Valheim</li>
+<li>spark</li>
 <li>Searchables</li>
 <li>Simple Voice Chat</li>
 <li>Simply Swords</li>
@@ -146,7 +155,6 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Sophisticated Core</li>
 <li>Sophisticated Storage</li>
 <li>Sound Physics Remastered</li>
-<li>spark</li>
 <li>Starlight</li>
 <li>Storage Delight</li>
 <li>Storage Drawers</li>
@@ -159,11 +167,11 @@ Minecraft Modpack 1.20.1 with around 150 mods <br>
 <li>Trash Cans</li>
 <li>TrashSlot</li>
 <li>Traveler's Titles</li>
+<li>VMod</li>
 <li>VS Eureka Mod</li>
 <li>Valkyrien Skies 2</li>
 <li>Waystones</li>
 <li>What Are They Up To</li>
-<li>Wurst Client</li>
 <li>YUNG's API</li>
 <li>YUNG's Better Desert Temples</li>
 <li>YUNG's Better Dungeons</li>
