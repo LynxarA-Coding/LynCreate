@@ -38,8 +38,26 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betternether:black_apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:stalagnate_bowl_apple": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:spider_eye": {
 			"nutrition": 2,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:shadow_berry_jelly": {
+			"nutrition": 6,
 			"saturationModifier": 0.800000011920929,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
@@ -47,6 +65,12 @@
 		"minecraft:potato": {
 			"nutrition": 1,
 			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:chorus_mushroom_raw": {
+			"nutrition": 3,
+			"saturationModifier": 0.5,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
@@ -59,6 +83,12 @@
 		"minecraft:porkchop": {
 			"nutrition": 3,
 			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:stalagnate_bowl_mushroom": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
@@ -77,6 +107,18 @@
 		"minecraft:melon_slice": {
 			"nutrition": 2,
 			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:bolux_mushroom_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:shadow_berry_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.699999988079071,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
@@ -116,6 +158,12 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betternether:hook_mushroom_cooked": {
+			"nutrition": 4,
+			"saturationModifier": 0.4000000059604645,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:cooked_salmon": {
 			"nutrition": 6,
 			"saturationModifier": 0.800000011920929,
@@ -146,6 +194,24 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betternether:stalagnate_bowl_wart": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:chorus_mushroom_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:end_fish_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.10000000149011612,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:dried_kelp": {
 			"nutrition": 1,
 			"saturationModifier": 0.30000001192092896,
@@ -155,6 +221,12 @@
 		"minecraft:baked_potato": {
 			"nutrition": 5,
 			"saturationModifier": 0.6000000238418579,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:blossom_berry_jelly": {
+			"nutrition": 8,
+			"saturationModifier": 0.699999988079071,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
@@ -176,9 +248,21 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betterend:amber_root_raw": {
+			"nutrition": 2,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:chicken": {
 			"nutrition": 2,
 			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betternether:agave_medicine": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
@@ -188,10 +272,28 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betterend:end_fish_cooked": {
+			"nutrition": 6,
+			"saturationModifier": 0.800000011920929,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:golden_apple": {
 			"nutrition": 10,
 			"saturationModifier": 1.2000000476837158,
 			"healthRegenModifier": 1.5,
+			"extraEffects": []
+		},
+		"betternether:herbal_medicine": {
+			"nutrition": 0,
+			"saturationModifier": 0.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:umbrella_cluster_juice": {
+			"nutrition": 2,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
 		"minecraft:cake": {
@@ -204,6 +306,18 @@
 			"nutrition": 10,
 			"saturationModifier": 1.2000000476837158,
 			"healthRegenModifier": 1.5,
+			"extraEffects": []
+		},
+		"betterend:cave_pumpkin_pie": {
+			"nutrition": 8,
+			"saturationModifier": 0.30000001192092896,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:sweet_berry_jelly": {
+			"nutrition": 8,
+			"saturationModifier": 0.699999988079071,
+			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
 		"minecraft:pumpkin_pie": {
@@ -242,6 +356,12 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
+		"betterend:shadow_berry_raw": {
+			"nutrition": 4,
+			"saturationModifier": 0.5,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
 		"minecraft:cookie": {
 			"nutrition": 2,
 			"saturationModifier": 0.10000000149011612,
@@ -263,6 +383,12 @@
 		"minecraft:milk_bucket": {
 			"nutrition": 6,
 			"saturationModifier": 1.0,
+			"healthRegenModifier": 1.0,
+			"extraEffects": []
+		},
+		"betterend:blossom_berry": {
+			"nutrition": 4,
+			"saturationModifier": 0.30000001192092896,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},

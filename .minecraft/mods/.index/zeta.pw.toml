@@ -1,0 +1,13 @@
+filename = 'Zeta-1.0-23.jar'
+name = 'Zeta'
+side = 'both'
+
+[download]
+hash = 'bb8167b2b33fcbb9c95b1a32d479f54c7c55774682ace2426d0992d10bf640718553268c76f203a376ecee5495b9e78d763859f1d5702d6098d3033565e45b02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MVARlG2f/versions/UXasHCi0/Zeta-1.0-23.jar'
+
+[update.modrinth]
+mod-id = 'MVARlG2f'
+version = 'UXasHCi0'
