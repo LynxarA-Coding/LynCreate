@@ -1,6 +1,12 @@
 .minecraft/config
+.minecraft/mods/.connector/Wurst-Client-v7.43-MC1.20.1_mapped_srg_1.20.1.jar
+.minecraft/mods/.connector/Wurst-Client-v7.43-MC1.20.1_mapped_srg_1.20.1.jar.input
 .minecraft/mods/.connector
 .minecraft/mods/Wurst-Client-v7.43-MC1.20.1.jar
+.minecraft/mods/Wurst-Client-v7.43-MC1.20.1.jar
+.minecraft/saves
 .minecraft/saves
 .minecraft/schematics
 .minecraft/wurst
+LICENSE.md
+README.md

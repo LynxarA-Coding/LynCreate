@@ -108,7 +108,7 @@
     "speechToTextTranslateToInputBox": true,
     "speechToTextTranslateLang": "English",
     "width": 180,
-    "height": 475,
+    "height": 510,
     "messageAlignment": "LEFT",
     "chatTabsEnabled": true,
     "speechToTextSampleRate": 48000,
