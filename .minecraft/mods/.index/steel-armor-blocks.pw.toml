@@ -1,13 +1,13 @@
-filename = 's_a_b-1.3.0_1.20.1.jar'
+filename = 's_a_b-1.3.1_1.20.1.jar'
 name = 'Steel armor blocks'
 side = 'both'
 
 [download]
-hash = '74a8c278a999344002b7ba261e785e1942883f6e'
+hash = 'e0f4ec2b7e5ff3bb58aec3ef5536a9e4927f29e7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5114427
+file-id = 5642135
 project-id = 907369

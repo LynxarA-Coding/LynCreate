@@ -3,11 +3,11 @@ name = "Pam's HarvestCraft 2 - Food Extended"
 side = 'both'
 
 [download]
-hash = '1bac0ab9d2573efd2aafb92ec5acf7d878cbae2345160d03312f876fcf6a32886ceb2bbd17c92975874ad454ddcfaffffd9a4bc54e8d8b8e77d4ca9d30185e2b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/bdPeAbPS/versions/ZHPzQtqH/pamhc2foodextended-1.20.4-1.0.1.jar'
+hash = '5939df90ec025f90e502d6e735081103860bbd0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'bdPeAbPS'
-version = 'ZHPzQtqH'
+[update.curseforge]
+file-id = 5147171
+project-id = 402231

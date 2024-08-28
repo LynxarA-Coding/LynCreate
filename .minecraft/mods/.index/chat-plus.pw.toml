@@ -1,0 +1,13 @@
+filename = 'chatplus-forge-1.1.4.jar'
+name = 'ChatPlus'
+side = 'both'
+
+[download]
+hash = '21c7e7188aefea8dc25517eb72109cecf700d9dfd11f06b1bd4e4efa772d874dd86bc6b59d059afb1241a73fffef3bd15100d8bd68b7ec2823e2e35ca341f7a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cJlZ132G/versions/l1vT1vK3/chatplus-forge-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'cJlZ132G'
+version = 'l1vT1vK3'

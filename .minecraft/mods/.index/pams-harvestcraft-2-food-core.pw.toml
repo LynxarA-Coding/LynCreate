@@ -1,13 +1,13 @@
 filename = 'pamhc2foodcore-1.20.4-1.0.5.jar'
-name = "Pam's HarvestCraft 2: Food Core"
+name = "Pam's HarvestCraft 2 - Food Core"
 side = 'both'
 
 [download]
-hash = '49f988cbe3c8f96657d93813fcd249cb7820f233c839442b5ba0b2159b0aa08c84c77995ad368490452095d47826e7e255913f537da850cdd64f5bccabb61b08'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Z9OywhE4/versions/RLPfpN1a/pamhc2foodcore-1.20.4-1.0.5.jar'
+hash = '7fafd6a0c6692142b8dfb249341659f463fc9cba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'Z9OywhE4'
-version = 'RLPfpN1a'
+[update.curseforge]
+file-id = 5097798
+project-id = 372534

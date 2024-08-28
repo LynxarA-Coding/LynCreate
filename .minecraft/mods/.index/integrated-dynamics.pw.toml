@@ -1,13 +1,13 @@
-filename = 'IntegratedDynamics-1.20.1-1.23.1.jar'
-name = 'Integrated Dynamics'
+filename = 'IntegratedDynamics-1.20.1-1.23.2.jar'
+name = 'IntegratedDynamics'
 side = 'both'
 
 [download]
-hash = '11ea3f11a7d6ef1d797c57fd10629233e67e2e24175128618f66c6b630a2ce80e5fded3e58bd887e9125743b3505fd8478efa028217d8d53a2af9ce1b142811a'
+hash = '1b9352274ded455b168a3ba135c570047a387665ce32cb9d7a51bddb7bc09c86af2c6692ac1505eaad16d90a52e47a5a22d459b9366d3adfea20ade2a0daf9af'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/pyGfsmYC/IntegratedDynamics-1.20.1-1.23.1.jar'
+url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/Voksfrxf/IntegratedDynamics-1.20.1-1.23.2.jar'
 
 [update.modrinth]
 mod-id = 'yYzdQHJI'
-version = 'pyGfsmYC'
+version = 'Voksfrxf'
