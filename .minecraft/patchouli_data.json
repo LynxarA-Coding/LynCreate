@@ -1,5 +1,18 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "irons_spellbooks:iss_guide_book": {
+      "viewedEntries": [
+        "irons_spellbooks:progression/early_game"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "advancedperipherals:manual": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
