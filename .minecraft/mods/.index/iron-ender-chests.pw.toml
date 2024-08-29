@@ -1,0 +1,13 @@
+filename = 'iron_ender_chests-1.20-1.0.3.jar'
+name = 'Iron Ender Chests'
+side = 'both'
+
+[download]
+hash = 'ba7eebb0feef8bd22bc7e031a4d907b2579991f274ddc0e0d1d46cda4218ac883f244b0c19e3ae42041ae4c763ef8ebe3979975b9e710b0d4004fb52e0a8e703'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CRn27PTC/versions/BdlyNAUf/iron_ender_chests-1.20-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'CRn27PTC'
+version = 'BdlyNAUf'
