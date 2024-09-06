@@ -6,436 +6,20 @@
   "mcVersion": "1.20.1",
   "list": [
     {
-      "file": "/mods/create_jetpack-forge-4.2.1.jar",
-      "size": "229959",
+      "file": "/mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+      "size": "241148",
       "type": "mod",
       "editable": false,
-      "sha1": "c40fcd571b6072d5c0f550c2978e1eca57510ea5",
-      "murmur": "2267725162"
+      "sha1": "83cccb66e679d72345a5194e4ca520f647bc97e6",
+      "murmur": "222529288"
     },
     {
-      "file": "/mods/nethersdelight-1.20.1-4.0.jar",
-      "size": "366047",
+      "file": "/mods/immersive_weathering-1.20.1-2.0.1-forge.jar",
+      "size": "2606416",
       "type": "mod",
       "editable": false,
-      "sha1": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838",
-      "murmur": "2015586322"
-    },
-    {
-      "file": "/mods/ironfurnaces-1.20.1-4.1.6.jar",
-      "size": "609038",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ce28ca1679c9c353b8e4391b45499f16b19b6648",
-      "murmur": "2641022404"
-    },
-    {
-      "file": "/mods/pamhc2trees-1.20-1.0.2.jar",
-      "size": "777303",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3e4118f4649305f3940c412d20d6295d884900bf",
-      "murmur": "2280010929"
-    },
-    {
-      "file": "/mods/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
-      "size": "674687",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ce32f49ec81627c16dae83ea626fdf043d6d78b5",
-      "murmur": "2077485437"
-    },
-    {
-      "file": "/mods/Croptopia-1.20.1-FORGE-3.0.4.jar",
-      "size": "2099945",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2008e6887b9490c491ddb471e87cfb6d26684dc5",
-      "murmur": "4197678212"
-    },
-    {
-      "file": "/mods/craftingtweaks-forge-1.20.1-18.2.5.jar",
-      "size": "221276",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3c4bc369c16bdeb00782b2c141eeb6aecbbbcd0a",
-      "murmur": "1428427714"
-    },
-    {
-      "file": "/mods/Quark-4.0-460.jar",
-      "size": "14818038",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3aef3c60a7f77e17c630df05cbb9da72d274b683",
-      "murmur": "2677625295"
-    },
-    {
-      "file": "/mods/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
-      "size": "515364",
-      "type": "mod",
-      "editable": false,
-      "sha1": "592d758396570d1369cffab610a622a1600b98a6",
-      "murmur": "902486411"
-    },
-    {
-      "file": "/mods/irons_spellbooks-1.20.1-3.4.0.jar",
-      "size": "8667140",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2bbe3630a4a4fb58feed33523c265bdf51ff6365",
-      "murmur": "1740609461"
-    },
-    {
-      "file": "/mods/sophisticatedstorage-1.20.1-0.10.26.817.jar",
-      "size": "1347026",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c085ea9b492efa4f9e31b2f76db66e72cad8d527",
-      "murmur": "2894982163"
-    },
-    {
-      "file": "/mods/create-deco-additions-1.3.2.jar",
-      "size": "407561",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4c342731e62027d66b5aaa8ed3bc70e074e91f19",
-      "murmur": "2410853411"
-    },
-    {
-      "file": "/mods/Nullscape_1.20.x_v1.2.7.jar",
-      "size": "398322",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7084e5730522809e7f4005d2c287a9ffccf42acd",
-      "murmur": "658624146"
-    },
-    {
-      "file": "/mods/VMod-Forge-1.20.1-0.0.11.jar",
-      "size": "4354593",
-      "type": "mod",
-      "editable": false,
-      "sha1": "01cdc71e8701eb9b43e9433940fdf19f7ae96799",
-      "murmur": "3209956097"
-    },
-    {
-      "file": "/mods/geckolib-forge-1.20.1-4.4.7.jar",
-      "size": "991110",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1e247d41675f16461fb93e37743be05d1d350a25",
-      "murmur": "2026905718"
-    },
-    {
-      "file": "/mods/Festive_Delight_1.3_Forge_1.20.1.jar",
-      "size": "250492",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c29bc770ce94cc2dcfd49be7df6338b44df0abe6",
-      "murmur": "2934452153"
-    },
-    {
-      "file": "/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
-      "size": "432753",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
-      "murmur": "4227743239"
-    },
-    {
-      "file": "/mods/sliceanddice-forge-3.2.1.jar",
-      "size": "228307",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7a994acbc0dc2ae424078aab6ad7824142e82f69",
-      "murmur": "2363822667"
-    },
-    {
-      "file": "/mods/ends_delight-1.20.1-2.4.jar",
-      "size": "276849",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ad59f7943ff93920948fba7f47edff92e74cb463",
-      "murmur": "3518271597"
-    },
-    {
-      "file": "/mods/cloth-config-11.1.118-forge.jar",
-      "size": "1168391",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c46ca3fba95691873a765f4e79750c615f33e446",
-      "murmur": "4036549752"
-    },
-    {
-      "file": "/mods/CreateCasing-1.20.1-1.6.1-fix1.jar",
-      "size": "8309255",
-      "type": "mod",
-      "editable": false,
-      "sha1": "8faeba54e90b4628f9fefa221e8b0c33871fc62c",
-      "murmur": "2662563075"
-    },
-    {
-      "file": "/mods/voicechat-forge-1.20.1-2.5.20.jar",
-      "size": "7715660",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c5a2b8c36ae4548cbfb566002d809d2e46823d3b",
-      "murmur": "1491175700"
-    },
-    {
-      "file": "/mods/createbigcannons-5.5.1+mc.1.20.1-forge.jar",
-      "size": "3943067",
-      "type": "mod",
-      "editable": false,
-      "sha1": "992724e8b5efbb1514fa866fd10a59c259f4a13e",
-      "murmur": "233934902"
-    },
-    {
-      "file": "/mods/valkyrienskies-120-2.3.0-beta.5.jar",
-      "size": "13774983",
-      "type": "mod",
-      "editable": false,
-      "sha1": "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a",
-      "murmur": "2723336174"
-    },
-    {
-      "file": "/mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
-      "size": "4841253",
-      "type": "mod",
-      "editable": false,
-      "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
-      "murmur": "1623244181"
-    },
-    {
-      "file": "/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
-      "size": "756864",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1eca21b906d38321bf60919dd3b12d160e5e6935",
-      "murmur": "1652112087"
-    },
-    {
-      "file": "/mods/StorageDrawers-1.20.1-12.6.3.jar",
-      "size": "712087",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2163d5c75f4cc4f20cfb5ad69db27ad3250f7296",
-      "murmur": "1989800064"
-    },
-    {
-      "file": "/mods/ctov-croptopia-compat-2.2.jar",
-      "size": "790240",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1d47de1b53a484acbe3988cc43ecc3dc723b2778",
-      "murmur": "830105473"
-    },
-    {
-      "file": "/mods/dungeons-and-taverns-3.0.3.f.jar",
-      "size": "13161907",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3f324242f3daf4785a8b9338f228679418f4870a",
-      "murmur": "2455489755"
-    },
-    {
-      "file": "/mods/mcw-fences-1.1.2-mc1.20.1forge.jar",
-      "size": "522886",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e061b6b37c9149d3e1aa4056167cc405a8376e9d",
-      "murmur": "1667276671"
-    },
-    {
-      "file": "/mods/protection_pixel-1.0.5-forge-1.20.1.jar",
-      "size": "2112790",
-      "type": "mod",
-      "editable": false,
-      "sha1": "9e287d94eeed992d833667664d9fa96f65bbd9e1",
-      "murmur": "3205101464"
-    },
-    {
-      "file": "/mods/mcw-bridges-3.0.0-mc1.20.1forge.jar",
-      "size": "677705",
-      "type": "mod",
-      "editable": false,
-      "sha1": "55bbc972179c77266bb709a0b177a9f772e34824",
-      "murmur": "2155596953"
-    },
-    {
-      "file": "/mods/oceansdelight-1.0.2-1.20.jar",
-      "size": "90353",
-      "type": "mod",
-      "editable": false,
-      "sha1": "32af985453bde77bfa56d59cdfb11cab5662c8e1",
-      "murmur": "1513167691"
-    },
-    {
-      "file": "/mods/createdieselgenerators-1.20.1-1.2i.jar",
-      "size": "1943145",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7f626b7ddd79bd1abf90bf816c67c674ac111e22",
-      "murmur": "1989754289"
-    },
-    {
-      "file": "/mods/sophisticatedbackpacks-1.20.1-3.20.6.1064.jar",
-      "size": "851844",
-      "type": "mod",
-      "editable": false,
-      "sha1": "cbcb05c47bb08c2be0fd91399a534c000a29c362",
-      "murmur": "2567904892"
-    },
-    {
-      "file": "/mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
-      "size": "14053547",
-      "type": "mod",
-      "editable": false,
-      "sha1": "65b674978790c422706755c115633355f0f38e8e",
-      "murmur": "3774788228"
-    },
-    {
-      "file": "/mods/ctov-rats-compat-1.0.jar",
-      "size": "39382",
-      "type": "mod",
-      "editable": false,
-      "sha1": "151445dfc957070436c085e91c26e62aa402c7f1",
-      "murmur": "3616257386"
-    },
-    {
-      "file": "/mods/creategoggles-1.20.1-0.5.5.g-[FORGE].jar",
-      "size": "217121",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ebe46ed6b39d16e3aec9630549b6b9bf26b26c99",
-      "murmur": "2226805404"
-    },
-    {
-      "file": "/mods/createdeco-2.0.2-1.20.1-forge.jar",
-      "size": "3966138",
-      "type": "mod",
-      "editable": false,
-      "sha1": "606650f31ca0a5eb64d4bbb8fbaecf357a3bdb43",
-      "murmur": "2619900862"
-    },
-    {
-      "file": "/mods/CommonCapabilities-1.20.1-2.9.3.jar",
-      "size": "247065",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c43d3b3fbe5540ef012a42ab69a243526690378e",
-      "murmur": "1946439961"
-    },
-    {
-      "file": "/mods/trashslot-forge-1.20-15.1.0.jar",
-      "size": "117738",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ebcbe8589742b6f7c9805adfd2c0a30e6cdab700",
-      "murmur": "1130822291"
-    },
-    {
-      "file": "/mods/alexscaves-1.1.5.jar",
-      "size": "61610911",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4c2b044111727354ca4968243b871686aaff9c63",
-      "murmur": "3885599730"
-    },
-    {
-      "file": "/mods/Tips-Forge-1.20.1-12.1.8.jar",
-      "size": "130094",
-      "type": "mod",
-      "editable": false,
-      "sha1": "bb1aaf585ac975f94d27162a1346c60a8d8f2765",
-      "murmur": "4175959745"
-    },
-    {
-      "file": "/mods/lithostitched-forge-1.20.1-1.1.8.jar",
-      "size": "156357",
-      "type": "mod",
-      "editable": false,
-      "sha1": "93570a008fbe370090fb01812a3af24fea9ea7cb",
-      "murmur": "497561133"
-    },
-    {
-      "file": "/mods/guardvillagers-1.20.1-1.6.7.jar",
-      "size": "215439",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7bfe6f938dc1d44f79110aaab474e03ed41d734d",
-      "murmur": "2564367502"
-    },
-    {
-      "file": "/mods/ctov-chefs-delight-compat-2.0.jar",
-      "size": "100334",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6121998a194a0f423ba3bf199110d98f95dfb2fd",
-      "murmur": "2777310511"
-    },
-    {
-      "file": "/mods/trackwork-1.20.1-1.0.1-beta.jar",
-      "size": "454632",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e2b4bbeb7928b90e70837902853c6ee016b88035",
-      "murmur": "1481741875"
-    },
-    {
-      "file": "/mods/delightfulburgers-1.20.1.jar",
-      "size": "15907",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4",
-      "murmur": "2265258349"
-    },
-    {
-      "file": "/mods/artifacts-forge-9.5.11.jar",
-      "size": "843215",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b28984cc502d5249610ecf7694932978c571234d",
-      "murmur": "1247729437"
-    },
-    {
-      "file": "/mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
-      "size": "215119",
-      "type": "mod",
-      "editable": false,
-      "sha1": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850",
-      "murmur": "3701495044"
-    },
-    {
-      "file": "/mods/TravelersTitles-1.20-Forge-4.0.2.jar",
-      "size": "228191",
-      "type": "mod",
-      "editable": false,
-      "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
-      "murmur": "4191736142"
-    },
-    {
-      "file": "/mods/citadel-2.6.0-1.20.1.jar",
-      "size": "3173174",
-      "type": "mod",
-      "editable": false,
-      "sha1": "fed1e7cb25232d31aaebe86f4ebafe8d9b663387",
-      "murmur": "1509781679"
-    },
-    {
-      "file": "/mods/Cucumber-1.20.1-7.0.11.jar",
-      "size": "269283",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ea5ede0227b479c0f235d0b73862795ccdb33f9a",
-      "murmur": "2136680840"
-    },
-    {
-      "file": "/mods/YungsExtras-1.20-Forge-4.0.3.jar",
-      "size": "200341",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
-      "murmur": "946802158"
+      "sha1": "b63082f6415c470336b1e36a37421e8f6a9948fd",
+      "murmur": "937994392"
     },
     {
       "file": "/mods/polymorph-forge-0.49.5+1.20.1.jar",
@@ -446,180 +30,12 @@
       "murmur": "3223687629"
     },
     {
-      "file": "/mods/Patchouli-1.20.1-84-FORGE.jar",
-      "size": "642506",
+      "file": "/mods/alexscavesdelight-1.0.11-1.20.1.jar",
+      "size": "30266",
       "type": "mod",
       "editable": false,
-      "sha1": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
-      "murmur": "1862914209"
-    },
-    {
-      "file": "/mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
-      "size": "495595",
-      "type": "mod",
-      "editable": false,
-      "sha1": "eec891067ec8c72fdaeb97bece103eed5e10e719",
-      "murmur": "2171540230"
-    },
-    {
-      "file": "/mods/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
-      "size": "2003765",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f64d914a863098e2bb58403e1e120a3eccd34393",
-      "murmur": "723868157"
-    },
-    {
-      "file": "/mods/pamhc2foodcore-1.20.4-1.0.5.jar",
-      "size": "911489",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7fafd6a0c6692142b8dfb249341659f463fc9cba",
-      "murmur": "2293271547"
-    },
-    {
-      "file": "/mods/create-new-age-forge-1.20.1-1.1.2.jar",
-      "size": "663575",
-      "type": "mod",
-      "editable": false,
-      "sha1": "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
-      "murmur": "2488645362"
-    },
-    {
-      "file": "/mods/mcw-lights-1.1.0-mc1.20.1forge.jar",
-      "size": "517513",
-      "type": "mod",
-      "editable": false,
-      "sha1": "54325ec072a23df892bfbf1c03e917e372eb2ca0",
-      "murmur": "2206385898"
-    },
-    {
-      "file": "/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-      "size": "492998",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
-      "murmur": "1016555382"
-    },
-    {
-      "file": "/mods/Delightful-1.20.1-3.5.9.jar",
-      "size": "1052558",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b6cd314e7912a82dc7d7cc5720d4b9ad4827b25f",
-      "murmur": "3441556001"
-    },
-    {
-      "file": "/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
-      "size": "619255",
-      "type": "mod",
-      "editable": false,
-      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
-      "murmur": "4156404560"
-    },
-    {
-      "file": "/mods/AmbientSounds_FORGE_v6.0.6_mc1.20.1.jar",
-      "size": "85328189",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4087c756ef76220667c86cf8a7efa02f14cc14b0",
-      "murmur": "833717964"
-    },
-    {
-      "file": "/mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
-      "size": "276231",
-      "type": "mod",
-      "editable": false,
-      "sha1": "526e788a9b38afc5171fab49b64a5a54e1bb25d7",
-      "murmur": "3995349408"
-    },
-    {
-      "file": "/mods/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-      "size": "9096035",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1fa6261d8bcde2feb200886e2ff6cfcbbdb53e17",
-      "murmur": "1510024611"
-    },
-    {
-      "file": "/mods/kotlinforforge-4.11.0-all.jar",
-      "size": "7193768",
-      "type": "other",
-      "editable": false,
-      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
-      "murmur": null
-    },
-    {
-      "file": "/mods/Searchables-forge-1.20.1-1.0.3.jar",
-      "size": "77732",
-      "type": "mod",
-      "editable": false,
-      "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
-      "murmur": "3494294894"
-    },
-    {
-      "file": "/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-      "size": "792381",
-      "type": "mod",
-      "editable": false,
-      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
-      "murmur": "1320004755"
-    },
-    {
-      "file": "/mods/CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
-      "size": "884314",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d8356090efdf5591fd52d42095101d9b530fbd87",
-      "murmur": "2220787718"
-    },
-    {
-      "file": "/mods/storagedelight-2024.07.23-1.20.1-forge.jar",
-      "size": "286307",
-      "type": "mod",
-      "editable": false,
-      "sha1": "66394d73b5aef026698ad9f62e5d0ee65a6e1c70",
-      "murmur": "3335265732"
-    },
-    {
-      "file": "/mods/amendments-1.20-1.2.8.jar",
-      "size": "984051",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f149a86d48d3830679754d1921c7e80831c19291",
-      "murmur": "4046688701"
-    },
-    {
-      "file": "/mods/DungeonsArise-1.20.1-2.1.57-release.jar",
-      "size": "8579488",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1bc95d13cf8208c5cfe100a001d6b078d15742f7",
-      "murmur": "1613941477"
-    },
-    {
-      "file": "/mods/mythicmounts-20.1-7.4.2-forge.jar",
-      "size": "4335508",
-      "type": "mod",
-      "editable": false,
-      "sha1": "a2c411308080ab61da211380321da8490b376285",
-      "murmur": "1465831610"
-    },
-    {
-      "file": "/mods/entityculling-forge-1.7.0-mc1.20.1.jar",
-      "size": "71441",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d2edb93aefdc1b104a8ef975e72c53796b752293",
-      "murmur": "2373206346"
-    },
-    {
-      "file": "/mods/ctov-advanced-peripheral-compat-2.0.jar",
-      "size": "118435",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3cb4cd906660ef90bca81c3cc1af1ebdd6795a55",
-      "murmur": "2429820771"
+      "sha1": "dc3ecc3f2f0840484d8b429e224802e263ee4919",
+      "murmur": "621236118"
     },
     {
       "file": "/mods/create_mechanical_extruder-1.20.1-1.5.7.e-22.jar",
@@ -630,68 +46,12 @@
       "murmur": "2481843946"
     },
     {
-      "file": "/mods/more_villargers-2.5.8-forge-1.20.1.jar",
-      "size": "1802396",
+      "file": "/mods/create_jetpack_curios-1.0.0-forge-1.20.1.jar",
+      "size": "78631",
       "type": "mod",
       "editable": false,
-      "sha1": "0070a50d60e955c79a7e720d601ac77fb20939a6",
-      "murmur": "661711057"
-    },
-    {
-      "file": "/mods/MobPlaques-v8.0.1-1.20.1-Forge.jar",
-      "size": "84543",
-      "type": "mod",
-      "editable": false,
-      "sha1": "72a7476c49cf1a4d66f133d100faac2b40097170",
-      "murmur": "1412346743"
-    },
-    {
-      "file": "/mods/design_decor-0.4.0b-1.20.1.jar",
-      "size": "2439693",
-      "type": "mod",
-      "editable": false,
-      "sha1": "66a40d00191fcfd8d674d200b94427197503c2c8",
-      "murmur": "3756984340"
-    },
-    {
-      "file": "/mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
-      "size": "625488",
-      "type": "mod",
-      "editable": false,
-      "sha1": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38",
-      "murmur": "4053708632"
-    },
-    {
-      "file": "/mods/IntegratedDynamics-1.20.1-1.23.2.jar",
-      "size": "4038745",
-      "type": "mod",
-      "editable": false,
-      "sha1": "159193734dc359f9f488240bf1c0550c8694430d",
-      "murmur": "772773165"
-    },
-    {
-      "file": "/mods/PuzzlesLib-v8.1.22-1.20.1-Forge.jar",
-      "size": "1001920",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4a4b87f46a8f77cc09128a1a88da5f6dce7c35fc",
-      "murmur": "4067458092"
-    },
-    {
-      "file": "/mods/ImmersiveThunder-1.20.1+1.2.2.jar",
-      "size": "3305823",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c9145d76adcb75cc21482e8e4b0d7cbb5b51f230",
-      "murmur": "1483624458"
-    },
-    {
-      "file": "/mods/supplementaries-1.20-2.8.17.jar",
-      "size": "14534190",
-      "type": "mod",
-      "editable": false,
-      "sha1": "55ab43a1a9fc1f5ca4273c8c05403586f0c42fb6",
-      "murmur": "1990023027"
+      "sha1": "552acc8052466c6d4166b112c8b1dd404b91ed8c",
+      "murmur": "2113564603"
     },
     {
       "file": "/mods/CroptopiaDelight-1.20.1_1.2.2-forge.jar",
@@ -702,116 +62,108 @@
       "murmur": "1218050387"
     },
     {
-      "file": "/mods/cristellib-1.1.5-forge.jar",
-      "size": "431448",
+      "file": "/mods/TravelersTitles-1.20-Forge-4.0.2.jar",
+      "size": "228191",
       "type": "mod",
       "editable": false,
-      "sha1": "8a43951083ea9096a91f81757004465f4afc7cab",
-      "murmur": "785667465"
+      "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
+      "murmur": "4191736142"
     },
     {
-      "file": "/mods/dummmmmmy-1.20-1.8.19.jar",
-      "size": "338618",
+      "file": "/mods/cc_vs-1.20.1-forge-0.1.0.jar",
+      "size": "555165",
       "type": "mod",
       "editable": false,
-      "sha1": "b5c1756281d437db03ff9ae6e9ce4f12264ab1ed",
-      "murmur": "133084499"
+      "sha1": "8898beb860d41060059616a1528ae713c5643f49",
+      "murmur": "3207161271"
     },
     {
-      "file": "/mods/mcw-paintings-1.0.5-1.20.1forge.jar",
-      "size": "72181",
+      "file": "/mods/sophisticatedbackpacks-1.20.1-3.20.6.1064.jar",
+      "size": "851844",
       "type": "mod",
       "editable": false,
-      "sha1": "47455c48ff84c0ba42936a95a1bb3709689e24cf",
-      "murmur": "1641446767"
+      "sha1": "cbcb05c47bb08c2be0fd91399a534c000a29c362",
+      "murmur": "2567904892"
     },
     {
-      "file": "/mods/architectury-9.2.14-forge.jar",
-      "size": "580602",
+      "file": "/mods/YungsBridges-1.20-Forge-4.0.3.jar",
+      "size": "136236",
       "type": "mod",
       "editable": false,
-      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
-      "murmur": "98480002"
+      "sha1": "88467fe87b95e6cf7a432822033cf74dd8586254",
+      "murmur": "2453817392"
     },
     {
-      "file": "/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "size": "206584",
+      "file": "/mods/trashcans-1.0.18b-forge-mc1.20.jar",
+      "size": "158164",
       "type": "mod",
       "editable": false,
-      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
-      "murmur": "3016368264"
+      "sha1": "4bc991b861a981921d06b731368239ce6ea571d3",
+      "murmur": "257456827"
     },
     {
-      "file": "/mods/better-nether-9.0.10.jar",
-      "size": "22981698",
+      "file": "/mods/creategoggles-1.20.1-0.5.5.g-[FORGE].jar",
+      "size": "217121",
       "type": "mod",
       "editable": false,
-      "sha1": "7247c4b3f319f828205fc9f195261c46a24280ec",
-      "murmur": "2589723847"
+      "sha1": "ebe46ed6b39d16e3aec9630549b6b9bf26b26c99",
+      "murmur": "2226805404"
     },
     {
-      "file": "/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
-      "size": "806652",
+      "file": "/mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+      "size": "484781",
       "type": "mod",
       "editable": false,
-      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
-      "murmur": "2549372144"
+      "sha1": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8",
+      "murmur": "3998609351"
     },
     {
-      "file": "/mods/mcw-doors-1.1.1forge-mc1.20.1.jar",
-      "size": "1202279",
+      "file": "/mods/spark-1.10.53-forge.jar",
+      "size": "3114590",
       "type": "mod",
       "editable": false,
-      "sha1": "8dc4503f24565cdb36eddd579cbfc548f126b693",
-      "murmur": "3832565539"
+      "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+      "murmur": "1515254383"
     },
     {
-      "file": "/mods/cookingforblockheads-forge-1.20.1-16.0.6.jar",
-      "size": "815676",
+      "file": "/mods/IronJetpacks-1.20.1-7.0.6.jar",
+      "size": "158052",
       "type": "mod",
       "editable": false,
-      "sha1": "55024361837a75271e5c20a446a3a0285664f8ee",
-      "murmur": "1794212989"
+      "sha1": "33e3c77c82ebe8aa3502ae29047262ff553a5d8d",
+      "murmur": "3681491875"
     },
     {
-      "file": "/mods/xercapaint-1.20.1-1.0.1.jar",
-      "size": "400817",
+      "file": "/mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "size": "4841253",
       "type": "mod",
       "editable": false,
-      "sha1": "d8447a6f13406c0be84ac3037210a97b44158539",
-      "murmur": "1411809616"
+      "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
+      "murmur": "1623244181"
     },
     {
-      "file": "/mods/mcw-holidays-1.1.0-mc1.20.1forge.jar",
-      "size": "1028361",
+      "file": "/mods/oceansdelight-1.0.2-1.20.jar",
+      "size": "90353",
       "type": "mod",
       "editable": false,
-      "sha1": "1a798ac5730db656c2149412dc3006c32494eaf9",
-      "murmur": "2279820177"
+      "sha1": "32af985453bde77bfa56d59cdfb11cab5662c8e1",
+      "murmur": "1513167691"
     },
     {
-      "file": "/mods/embeddium-0.3.30+mc1.20.1.jar",
-      "size": "1320429",
+      "file": "/mods/journeymap-1.20.1-5.10.1-forge.jar",
+      "size": "7160218",
       "type": "mod",
       "editable": false,
-      "sha1": "4af9c31e08246e82f53d1d9dc8e91f2f261da6bd",
-      "murmur": "3110890867"
+      "sha1": "bc34ab9d66878d054af37d7b8f914062ba34f4d7",
+      "murmur": "3887974662"
     },
     {
-      "file": "/mods/pamhc2crops-1.20-1.0.3.jar",
-      "size": "1050402",
+      "file": "/mods/createdieselgenerators-1.20.1-1.2i.jar",
+      "size": "1943145",
       "type": "mod",
       "editable": false,
-      "sha1": "1b2eb3198570be89edce532bc76c6471af3529f3",
-      "murmur": "3195458661"
-    },
-    {
-      "file": "/mods/Terralith_1.20.x_v2.5.4.jar",
-      "size": "3156901",
-      "type": "mod",
-      "editable": false,
-      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
-      "murmur": "1222598727"
+      "sha1": "7f626b7ddd79bd1abf90bf816c67c674ac111e22",
+      "murmur": "1989754289"
     },
     {
       "file": "/mods/LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
@@ -822,100 +174,12 @@
       "murmur": "1376471928"
     },
     {
-      "file": "/mods/Connector-1.0.0-beta.45+1.20.1.jar",
-      "size": "4680145",
-      "type": "other",
-      "editable": false,
-      "sha1": "bcbcdcfa0260df23800d26069588073b998e65e7",
-      "murmur": null
-    },
-    {
-      "file": "/mods/create_numismatics_crafts-1.0.0-forge-1.20.1.jar",
-      "size": "23722",
+      "file": "/mods/skinlayers3d-forge-1.6.7-mc1.20.1.jar",
+      "size": "477509",
       "type": "mod",
       "editable": false,
-      "sha1": "5473a41ce2b17ac360f880bbf341f57998ee3a6b",
-      "murmur": "881710152"
-    },
-    {
-      "file": "/mods/delightfulsandwich-1.20.1.jar",
-      "size": "19574",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ebd56e042a32bf9adaa696b2f548b0171d8672ff",
-      "murmur": "2985055453"
-    },
-    {
-      "file": "/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
-      "size": "387111",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
-      "murmur": "3970260058"
-    },
-    {
-      "file": "/mods/alexsmobs-1.22.8.jar",
-      "size": "26055355",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1bf92f4c70a4e01af077600d5543a63812e4d815",
-      "murmur": "3770038391"
-    },
-    {
-      "file": "/mods/create_misc_and_things_ 1.20.1_4.0A.jar",
-      "size": "1014347",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17",
-      "murmur": "3682175163"
-    },
-    {
-      "file": "/mods/create-stuff-additions1.20.1_v2.0.4a.jar",
-      "size": "1151274",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96",
-      "murmur": "2388542083"
-    },
-    {
-      "file": "/mods/JadeAddons-1.20.1-Forge-5.3.0.jar",
-      "size": "75658",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1b7af26c7ea4e6528c5c762927b0f80c104f9bda",
-      "murmur": "2312996257"
-    },
-    {
-      "file": "/mods/Chipped-forge-1.20.1-3.0.6.jar",
-      "size": "15060040",
-      "type": "mod",
-      "editable": false,
-      "sha1": "977756a36171b80ba1767b59ffa74b90f074d74d",
-      "murmur": "1409267836"
-    },
-    {
-      "file": "/mods/better-end-4.0.11.jar",
-      "size": "92544800",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1e54364d63245a51e66e414ca73efbac9e05f11d",
-      "murmur": "3067704684"
-    },
-    {
-      "file": "/mods/s_a_b-1.3.1_1.20.1.jar",
-      "size": "1716160",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e0f4ec2b7e5ff3bb58aec3ef5536a9e4927f29e7",
-      "murmur": "2869492539"
-    },
-    {
-      "file": "/mods/curios-forge-5.9.1+1.20.1.jar",
-      "size": "382970",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d5698ca0e90adba53d0ca660a2dc0b79ac09504b",
-      "murmur": "3373913553"
+      "sha1": "bf4a2535bda9d83d3669a0e82d37be654e5714a1",
+      "murmur": "2810862165"
     },
     {
       "file": "/mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
@@ -926,6 +190,390 @@
       "murmur": "189908369"
     },
     {
+      "file": "/mods/MobPlaques-v8.0.1-1.20.1-Forge.jar",
+      "size": "84543",
+      "type": "mod",
+      "editable": false,
+      "sha1": "72a7476c49cf1a4d66f133d100faac2b40097170",
+      "murmur": "1412346743"
+    },
+    {
+      "file": "/mods/copycats-2.1.2+mc.1.20.1-forge.jar",
+      "size": "1739265",
+      "type": "mod",
+      "editable": false,
+      "sha1": "74ae3b05fa0fcc2b3f252e1748432fe0bf3fcf72",
+      "murmur": "2967527248"
+    },
+    {
+      "file": "/mods/pamhc2trees-1.20-1.0.2.jar",
+      "size": "777303",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3e4118f4649305f3940c412d20d6295d884900bf",
+      "murmur": "2280010929"
+    },
+    {
+      "file": "/mods/create-deco-additions-1.3.2.jar",
+      "size": "407561",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4c342731e62027d66b5aaa8ed3bc70e074e91f19",
+      "murmur": "2410853411"
+    },
+    {
+      "file": "/mods/delightfulsandwich-1.20.1.jar",
+      "size": "19574",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ebd56e042a32bf9adaa696b2f548b0171d8672ff",
+      "murmur": "2985055453"
+    },
+    {
+      "file": "/mods/createbigcannons-5.5.1+mc.1.20.1-forge.jar",
+      "size": "3943067",
+      "type": "mod",
+      "editable": false,
+      "sha1": "992724e8b5efbb1514fa866fd10a59c259f4a13e",
+      "murmur": "233934902"
+    },
+    {
+      "file": "/mods/curios-forge-5.9.1+1.20.1.jar",
+      "size": "382970",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d5698ca0e90adba53d0ca660a2dc0b79ac09504b",
+      "murmur": "3373913553"
+    },
+    {
+      "file": "/mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "size": "64187",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "murmur": "1380297823"
+    },
+    {
+      "file": "/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "size": "76237",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "murmur": "3001740257"
+    },
+    {
+      "file": "/mods/Ping-Wheel-1.9.1-forge-1.20.1.jar",
+      "size": "102767",
+      "type": "mod",
+      "editable": false,
+      "sha1": "12a0bc2217a6cf7254c1292e41807517979efe78",
+      "murmur": "1228643768"
+    },
+    {
+      "file": "/mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
+      "size": "14053547",
+      "type": "mod",
+      "editable": false,
+      "sha1": "65b674978790c422706755c115633355f0f38e8e",
+      "murmur": "3774788228"
+    },
+    {
+      "file": "/mods/Quark-4.0-460.jar",
+      "size": "14818038",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3aef3c60a7f77e17c630df05cbb9da72d274b683",
+      "murmur": "2677625295"
+    },
+    {
+      "file": "/mods/Terralith_1.20.x_v2.5.4.jar",
+      "size": "3156901",
+      "type": "mod",
+      "editable": false,
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+      "murmur": "1222598727"
+    },
+    {
+      "file": "/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "size": "206584",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+      "murmur": "3016368264"
+    },
+    {
+      "file": "/mods/CommonCapabilities-1.20.1-2.9.3.jar",
+      "size": "247065",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c43d3b3fbe5540ef012a42ab69a243526690378e",
+      "murmur": "1946439961"
+    },
+    {
+      "file": "/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "size": "272740",
+      "type": "mod",
+      "editable": false,
+      "sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
+      "murmur": "393521612"
+    },
+    {
+      "file": "/mods/AdvancementPlaques-1.20.1-forge-1.5.1.jar",
+      "size": "210148",
+      "type": "mod",
+      "editable": false,
+      "sha1": "459bf06be69d28ebf522d22905019cba785978c9",
+      "murmur": "1436288173"
+    },
+    {
+      "file": "/mods/guardvillagers-1.20.1-1.6.7.jar",
+      "size": "215439",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7bfe6f938dc1d44f79110aaab474e03ed41d734d",
+      "murmur": "2564367502"
+    },
+    {
+      "file": "/mods/mythicmounts-20.1-7.4.2-forge.jar",
+      "size": "4335508",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a2c411308080ab61da211380321da8490b376285",
+      "murmur": "1465831610"
+    },
+    {
+      "file": "/mods/ctov-advanced-peripheral-compat-2.0.jar",
+      "size": "118435",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3cb4cd906660ef90bca81c3cc1af1ebdd6795a55",
+      "murmur": "2429820771"
+    },
+    {
+      "file": "/mods/gravestone-forge-1.20.1-1.0.21.jar",
+      "size": "314943",
+      "type": "mod",
+      "editable": false,
+      "sha1": "52e66870fcfe37cef9e4705fc92cc8d13adf0044",
+      "murmur": "411681125"
+    },
+    {
+      "file": "/mods/Jade-1.20.1-forge-11.11.1.jar",
+      "size": "547726",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7ec2e10db945924166447ea64ebaad7a142651eb",
+      "murmur": "1433944158"
+    },
+    {
+      "file": "/mods/createoreexcavation-1.20-1.5.0.jar",
+      "size": "381147",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d1d085b0352e9fc037aff294ef06ffccc463ca70",
+      "murmur": "1298983500"
+    },
+    {
+      "file": "/mods/cccbridge-mc1.20.1-forge-1.6.3.jar",
+      "size": "289381",
+      "type": "mod",
+      "editable": false,
+      "sha1": "78a03348b3c1f26170cd1171b3a8ca8fbb34a272",
+      "murmur": "2254926606"
+    },
+    {
+      "file": "/mods/cookingforblockheads-forge-1.20.1-16.0.6.jar",
+      "size": "815676",
+      "type": "mod",
+      "editable": false,
+      "sha1": "55024361837a75271e5c20a446a3a0285664f8ee",
+      "murmur": "1794212989"
+    },
+    {
+      "file": "/mods/create_power_loader-1.5.0-mc1.20.1.jar",
+      "size": "223428",
+      "type": "mod",
+      "editable": false,
+      "sha1": "15c83719f60df6108780ea7106436c639a4b9247",
+      "murmur": "977064639"
+    },
+    {
+      "file": "/mods/Chipped-forge-1.20.1-3.0.6.jar",
+      "size": "15060040",
+      "type": "mod",
+      "editable": false,
+      "sha1": "977756a36171b80ba1767b59ffa74b90f074d74d",
+      "murmur": "1409267836"
+    },
+    {
+      "file": "/mods/alexsmobs-1.22.8.jar",
+      "size": "26055355",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1bf92f4c70a4e01af077600d5543a63812e4d815",
+      "murmur": "3770038391"
+    },
+    {
+      "file": "/mods/IntegratedTunnels-1.20.1-1.8.31.jar",
+      "size": "620572",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4a96694a5fe212c177db70f3dd5cbd8d871e77f5",
+      "murmur": "1915670477"
+    },
+    {
+      "file": "/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "size": "619255",
+      "type": "mod",
+      "editable": false,
+      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+      "murmur": "4156404560"
+    },
+    {
+      "file": "/mods/sophisticatedstorage-1.20.1-0.10.26.817.jar",
+      "size": "1347026",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c085ea9b492efa4f9e31b2f76db66e72cad8d527",
+      "murmur": "2894982163"
+    },
+    {
+      "file": "/mods/jei-1.20.1-forge-15.14.0.64.jar",
+      "size": "1344539",
+      "type": "mod",
+      "editable": false,
+      "sha1": "beb25ca72ed6582d1447d3047703044a7c283c5b",
+      "murmur": "2018679601"
+    },
+    {
+      "file": "/mods/kotlinforforge-4.11.0-all.jar",
+      "size": "7193768",
+      "type": "other",
+      "editable": false,
+      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+      "murmur": null
+    },
+    {
+      "file": "/mods/ctov-more-villagers-compat-2.0.jar",
+      "size": "350448",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6dd5f02a340cf96a8b701bddc73dd2304ee912ef",
+      "murmur": "4289718046"
+    },
+    {
+      "file": "/mods/VMod-Forge-1.20.1-0.0.11.jar",
+      "size": "4354593",
+      "type": "mod",
+      "editable": false,
+      "sha1": "01cdc71e8701eb9b43e9433940fdf19f7ae96799",
+      "murmur": "3209956097"
+    },
+    {
+      "file": "/mods/CyclopsCore-1.20.1-1.19.5.jar",
+      "size": "905982",
+      "type": "mod",
+      "editable": false,
+      "sha1": "226e70adb09a8b770fbd3b443839c6d8b52be114",
+      "murmur": "2229948867"
+    },
+    {
+      "file": "/mods/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
+      "size": "515364",
+      "type": "mod",
+      "editable": false,
+      "sha1": "592d758396570d1369cffab610a622a1600b98a6",
+      "murmur": "902486411"
+    },
+    {
+      "file": "/mods/iron_ender_chests-1.20-1.0.3.jar",
+      "size": "88887",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c6e82837421a51408f8fba79b08fd2554719777e",
+      "murmur": "3125454291"
+    },
+    {
+      "file": "/mods/create_numismatics_crafts-1.0.0-forge-1.20.1.jar",
+      "size": "23722",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5473a41ce2b17ac360f880bbf341f57998ee3a6b",
+      "murmur": "881710152"
+    },
+    {
+      "file": "/mods/createaddition-1.20.1-1.2.4e.jar",
+      "size": "1515917",
+      "type": "mod",
+      "editable": false,
+      "sha1": "41f22b70ceb9f61db0306871f2ae9998b25ed4fd",
+      "murmur": "1415544755"
+    },
+    {
+      "file": "/mods/Old Infrastructure 1.20.1.jar",
+      "size": "4802339",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3066835b83cd39e589c53cf45388e6202c24cb4f",
+      "murmur": "3839724588"
+    },
+    {
+      "file": "/mods/delightfulburgers-1.20.1.jar",
+      "size": "15907",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4",
+      "murmur": "2265258349"
+    },
+    {
+      "file": "/mods/trashslot-forge-1.20-15.1.0.jar",
+      "size": "117738",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ebcbe8589742b6f7c9805adfd2c0a30e6cdab700",
+      "murmur": "1130822291"
+    },
+    {
+      "file": "/mods/SimpleRadio-forge-1.20.1-2.4.6.1.jar",
+      "size": "284128",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f9851e3c2a498c1669e82918ee6eaf49e38f2307",
+      "murmur": "931332574"
+    },
+    {
+      "file": "/mods/Nullscape_1.20.x_v1.2.7.jar",
+      "size": "398322",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7084e5730522809e7f4005d2c287a9ffccf42acd",
+      "murmur": "658624146"
+    },
+    {
+      "file": "/mods/better-end-4.0.11.jar",
+      "size": "92544800",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1e54364d63245a51e66e414ca73efbac9e05f11d",
+      "murmur": "3067704684"
+    },
+    {
+      "file": "/mods/architectury-9.2.14-forge.jar",
+      "size": "580602",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "murmur": "98480002"
+    },
+    {
+      "file": "/mods/lootr-forge-1.20-0.7.34.85.jar",
+      "size": "345280",
+      "type": "mod",
+      "editable": false,
+      "sha1": "03bb7cc236f4ccbdd1de6c7fb9411134f08090a0",
+      "murmur": "3518928172"
+    },
+    {
       "file": "/mods/create_connected-0.8.2-mc1.20.1-all.jar",
       "size": "6145362",
       "type": "mod",
@@ -934,12 +582,700 @@
       "murmur": "2199034147"
     },
     {
-      "file": "/mods/IntegratedTerminals-1.20.1-1.5.1.jar",
-      "size": "548871",
+      "file": "/mods/modernfix-forge-5.19.3+mc1.20.1.jar",
+      "size": "778485",
       "type": "mod",
       "editable": false,
-      "sha1": "938e34640707614ad2b5b05cfc32f54f944100e6",
-      "murmur": "1927665373"
+      "sha1": "1ec2816e2946ddadde9451473a545c728ffedc5a",
+      "murmur": "505134859"
+    },
+    {
+      "file": "/mods/YungsApi-1.20-Forge-4.0.5.jar",
+      "size": "365910",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c3a989fdf8429828bd784e35e83f89c0786b43de",
+      "murmur": "296382396"
+    },
+    {
+      "file": "/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
+      "size": "262412",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3a715b0c8e9244a0d6aace3e3d2f863a62ddc3bc",
+      "murmur": "847566940"
+    },
+    {
+      "file": "/mods/craftingtweaks-forge-1.20.1-18.2.5.jar",
+      "size": "221276",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3c4bc369c16bdeb00782b2c141eeb6aecbbbcd0a",
+      "murmur": "1428427714"
+    },
+    {
+      "file": "/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "size": "918012",
+      "type": "mod",
+      "editable": false,
+      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+      "murmur": "3061133685"
+    },
+    {
+      "file": "/mods/StorageDrawers-1.20.1-12.6.3.jar",
+      "size": "712087",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2163d5c75f4cc4f20cfb5ad69db27ad3250f7296",
+      "murmur": "1989800064"
+    },
+    {
+      "file": "/mods/artifacts-forge-9.5.11.jar",
+      "size": "843215",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b28984cc502d5249610ecf7694932978c571234d",
+      "murmur": "1247729437"
+    },
+    {
+      "file": "/mods/amendments-1.20-1.2.8.jar",
+      "size": "984051",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f149a86d48d3830679754d1921c7e80831c19291",
+      "murmur": "4046688701"
+    },
+    {
+      "file": "/mods/cloth-config-11.1.118-forge.jar",
+      "size": "1168391",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c46ca3fba95691873a765f4e79750c615f33e446",
+      "murmur": "4036549752"
+    },
+    {
+      "file": "/mods/bellsandwhistles-0.4.3-1.20.x.jar",
+      "size": "196447",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7cb1e1dc365c43f08ee7616f1505759e547b11be",
+      "murmur": "1896077010"
+    },
+    {
+      "file": "/mods/Delightful-1.20.1-3.5.9.jar",
+      "size": "1052558",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b6cd314e7912a82dc7d7cc5720d4b9ad4827b25f",
+      "murmur": "3441556001"
+    },
+    {
+      "file": "/mods/tempad-forge-1.20.1-2.3.4.jar",
+      "size": "194421",
+      "type": "mod",
+      "editable": false,
+      "sha1": "04f4c46e58317dca0e5665cee65a7fba730112ad",
+      "murmur": "2824748626"
+    },
+    {
+      "file": "/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "size": "115947",
+      "type": "mod",
+      "editable": false,
+      "sha1": "9bfb5d63ac2e03ecdab8755c968ffa25b799469b",
+      "murmur": "1186236462"
+    },
+    {
+      "file": "/mods/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
+      "size": "674687",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ce32f49ec81627c16dae83ea626fdf043d6d78b5",
+      "murmur": "2077485437"
+    },
+    {
+      "file": "/mods/AmbientSounds_FORGE_v6.0.6_mc1.20.1.jar",
+      "size": "85328189",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4087c756ef76220667c86cf8a7efa02f14cc14b0",
+      "murmur": "833717964"
+    },
+    {
+      "file": "/mods/Resourcify (1.20-1.20.1-forge)-1.4.1.jar",
+      "size": "2449277",
+      "type": "mod",
+      "editable": false,
+      "sha1": "bccf431dfca680376be6819e9bb0105695c4b0fc",
+      "murmur": "3000478554"
+    },
+    {
+      "file": "/mods/simplyswords-forge-1.56.0-1.20.1.jar",
+      "size": "15202091",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ff801e939da0f9afc2d96cce4375d8c4bb368533",
+      "murmur": "3196160906"
+    },
+    {
+      "file": "/mods/sol_valheim-1.1.1-4.jar",
+      "size": "43086",
+      "type": "mod",
+      "editable": false,
+      "sha1": "456d16a347557498cf0a543d717b4c680a9831c0",
+      "murmur": "563015222"
+    },
+    {
+      "file": "/mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+      "size": "495595",
+      "type": "mod",
+      "editable": false,
+      "sha1": "eec891067ec8c72fdaeb97bece103eed5e10e719",
+      "murmur": "2171540230"
+    },
+    {
+      "file": "/mods/immersive_melodies-0.3.0+1.20.1-forge.jar",
+      "size": "2563768",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1c08962403538f247e9782e0618919af3c818aa7",
+      "murmur": "4153093687"
+    },
+    {
+      "file": "/mods/Tips-Forge-1.20.1-12.1.8.jar",
+      "size": "130094",
+      "type": "mod",
+      "editable": false,
+      "sha1": "bb1aaf585ac975f94d27162a1346c60a8d8f2765",
+      "murmur": "4175959745"
+    },
+    {
+      "file": "/mods/[Forge]CTOV-v3.4.5.jar",
+      "size": "5269872",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f988d72fed45239a4c0a5040e6ea1e8d1ecdedfd",
+      "murmur": "1720782862"
+    },
+    {
+      "file": "/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+      "size": "136630",
+      "type": "mod",
+      "editable": false,
+      "sha1": "46825dc0adc36c4b19591bb99f7d856bc2953749",
+      "murmur": "1682223364"
+    },
+    {
+      "file": "/mods/IntegratedCrafting-1.20.1-1.1.8.jar",
+      "size": "284658",
+      "type": "mod",
+      "editable": false,
+      "sha1": "38ad8e968b2897aced6d62e9f33254e1be979b6b",
+      "murmur": "694334470"
+    },
+    {
+      "file": "/mods/CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
+      "size": "884314",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d8356090efdf5591fd52d42095101d9b530fbd87",
+      "murmur": "2220787718"
+    },
+    {
+      "file": "/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "size": "227925",
+      "type": "mod",
+      "editable": false,
+      "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+      "murmur": "3221047096"
+    },
+    {
+      "file": "/mods/newagealexscaves-1.20.1-1.0.0.jar",
+      "size": "137549",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b1005d83d38ff4fd66658881fb2bd31449f708a9",
+      "murmur": "3277170627"
+    },
+    {
+      "file": "/mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "size": "468517",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+      "murmur": "3838314854"
+    },
+    {
+      "file": "/mods/CreativeCore_FORGE_v2.11.37_mc1.20.1.jar",
+      "size": "1115420",
+      "type": "mod",
+      "editable": false,
+      "sha1": "efeb55b59dc317b44cb7b621824a4eb60c5109bb",
+      "murmur": "19349671"
+    },
+    {
+      "file": "/mods/mcw-fences-1.1.2-mc1.20.1forge.jar",
+      "size": "522886",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e061b6b37c9149d3e1aa4056167cc405a8376e9d",
+      "murmur": "1667276671"
+    },
+    {
+      "file": "/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "size": "179190",
+      "type": "mod",
+      "editable": false,
+      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+      "murmur": "1089403503"
+    },
+    {
+      "file": "/mods/createtabfix-0.0.1.jar",
+      "size": "4455",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8a90cd87356c07bcaa494e33effefce54d202cb1",
+      "murmur": "2088174066"
+    },
+    {
+      "file": "/mods/lithostitched-forge-1.20.1-1.1.8.jar",
+      "size": "156357",
+      "type": "mod",
+      "editable": false,
+      "sha1": "93570a008fbe370090fb01812a3af24fea9ea7cb",
+      "murmur": "497561133"
+    },
+    {
+      "file": "/mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "size": "276231",
+      "type": "mod",
+      "editable": false,
+      "sha1": "526e788a9b38afc5171fab49b64a5a54e1bb25d7",
+      "murmur": "3995349408"
+    },
+    {
+      "file": "/mods/ends_delight-1.20.1-2.4.jar",
+      "size": "276849",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ad59f7943ff93920948fba7f47edff92e74cb463",
+      "murmur": "3518271597"
+    },
+    {
+      "file": "/mods/athena-forge-1.20.1-3.1.2.jar",
+      "size": "91808",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b",
+      "murmur": "3211401917"
+    },
+    {
+      "file": "/mods/Festive_Delight_1.3_Forge_1.20.1.jar",
+      "size": "250492",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c29bc770ce94cc2dcfd49be7df6338b44df0abe6",
+      "murmur": "2934452153"
+    },
+    {
+      "file": "/mods/create-new-age-forge-1.20.1-1.1.2.jar",
+      "size": "663575",
+      "type": "mod",
+      "editable": false,
+      "sha1": "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
+      "murmur": "2488645362"
+    },
+    {
+      "file": "/mods/cc-tweaked-1.20.1-forge-1.113.0.jar",
+      "size": "3168208",
+      "type": "mod",
+      "editable": false,
+      "sha1": "0719de28019600e2d7ac8c9debe4c851a1905fe9",
+      "murmur": "3003253313"
+    },
+    {
+      "file": "/mods/Iceberg-1.20.1-forge-1.1.21.jar",
+      "size": "133685",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b",
+      "murmur": "1263770713"
+    },
+    {
+      "file": "/mods/alexscaves-1.1.5.jar",
+      "size": "61610911",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4c2b044111727354ca4968243b871686aaff9c63",
+      "murmur": "3885599730"
+    },
+    {
+      "file": "/mods/MRU-1.0.2+1.20.1+forge.jar",
+      "size": "287062",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3a8c1695dcb3d46ea169c26e16f73a073c7c5c3c",
+      "murmur": "1449918009"
+    },
+    {
+      "file": "/mods/pamhc2foodcore-1.20.4-1.0.5.jar",
+      "size": "911489",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7fafd6a0c6692142b8dfb249341659f463fc9cba",
+      "murmur": "2293271547"
+    },
+    {
+      "file": "/mods/dungeons-and-taverns-3.0.3.f.jar",
+      "size": "13161907",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3f324242f3daf4785a8b9338f228679418f4870a",
+      "murmur": "2455489755"
+    },
+    {
+      "file": "/mods/createframed-1.20.1-1.4.5.1.jar",
+      "size": "802017",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b592043e7a8a99f4e5fafbb6dbfe6fb2aba2034b",
+      "murmur": "598843810"
+    },
+    {
+      "file": "/mods/design_decor-0.4.0b-1.20.1.jar",
+      "size": "2439693",
+      "type": "mod",
+      "editable": false,
+      "sha1": "66a40d00191fcfd8d674d200b94427197503c2c8",
+      "murmur": "3756984340"
+    },
+    {
+      "file": "/mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+      "size": "3041071",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50",
+      "murmur": "495414893"
+    },
+    {
+      "file": "/mods/DungeonsArise-1.20.1-2.1.57-release.jar",
+      "size": "8579488",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1bc95d13cf8208c5cfe100a001d6b078d15742f7",
+      "murmur": "1613941477"
+    },
+    {
+      "file": "/mods/BOMD-Forge-1.20.1-1.1.2.jar",
+      "size": "1753623",
+      "type": "mod",
+      "editable": false,
+      "sha1": "232eb28172423cde46e8e1f038c670a01471fa92",
+      "murmur": "2846698925"
+    },
+    {
+      "file": "/mods/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+      "size": "9096035",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1fa6261d8bcde2feb200886e2ff6cfcbbdb53e17",
+      "murmur": "1510024611"
+    },
+    {
+      "file": "/mods/CreateCasing-1.20.1-1.6.1-fix1.jar",
+      "size": "8309255",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8faeba54e90b4628f9fefa221e8b0c33871fc62c",
+      "murmur": "2662563075"
+    },
+    {
+      "file": "/mods/mcw-paths-1.0.5-1.20.1forge.jar",
+      "size": "611100",
+      "type": "mod",
+      "editable": false,
+      "sha1": "44c7dbd747678b89e5e0021c424cbbfb940b3194",
+      "murmur": "3657019825"
+    },
+    {
+      "file": "/mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "size": "2864275",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+      "murmur": "3793510333"
+    },
+    {
+      "file": "/mods/Croptopia-1.20.1-FORGE-3.0.4.jar",
+      "size": "2099945",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2008e6887b9490c491ddb471e87cfb6d26684dc5",
+      "murmur": "4197678212"
+    },
+    {
+      "file": "/mods/pamhc2crops-1.20-1.0.3.jar",
+      "size": "1050402",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1b2eb3198570be89edce532bc76c6471af3529f3",
+      "murmur": "3195458661"
+    },
+    {
+      "file": "/mods/embeddium-0.3.30+mc1.20.1.jar",
+      "size": "1320429",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4af9c31e08246e82f53d1d9dc8e91f2f261da6bd",
+      "murmur": "3110890867"
+    },
+    {
+      "file": "/mods/mcw-doors-1.1.1forge-mc1.20.1.jar",
+      "size": "1202279",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8dc4503f24565cdb36eddd579cbfc548f126b693",
+      "murmur": "3832565539"
+    },
+    {
+      "file": "/mods/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+      "size": "196564",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3110f2ebf08d512e362c4397388144d8f75a0f7b",
+      "murmur": "2048960966"
+    },
+    {
+      "file": "/mods/miners_delight-1.20.1-1.2.3.jar",
+      "size": "474112",
+      "type": "mod",
+      "editable": false,
+      "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5",
+      "murmur": "393687547"
+    },
+    {
+      "file": "/mods/create_jetpack-forge-4.2.1.jar",
+      "size": "229959",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c40fcd571b6072d5c0f550c2978e1eca57510ea5",
+      "murmur": "2267725162"
+    },
+    {
+      "file": "/mods/xercapaint-1.20.1-1.0.1.jar",
+      "size": "400817",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d8447a6f13406c0be84ac3037210a97b44158539",
+      "murmur": "1411809616"
+    },
+    {
+      "file": "/mods/irons_spellbooks-1.20.1-3.4.0.jar",
+      "size": "8667140",
+      "type": "mod",
+      "editable": false,
+      "sha1": "2bbe3630a4a4fb58feed33523c265bdf51ff6365",
+      "murmur": "1740609461"
+    },
+    {
+      "file": "/mods/obscure_api-15.jar",
+      "size": "497136",
+      "type": "mod",
+      "editable": false,
+      "sha1": "30e37354519b4ca06bc617ccb2698cc696fdae9b",
+      "murmur": "2706278083"
+    },
+    {
+      "file": "/mods/create_factory-0.4b-1.20.1.jar",
+      "size": "263934",
+      "type": "mod",
+      "editable": false,
+      "sha1": "977b5f5f75f7449bde8f7ab7f1405d55ec225729",
+      "murmur": "1913119869"
+    },
+    {
+      "file": "/mods/mcw-paintings-1.0.5-1.20.1forge.jar",
+      "size": "72181",
+      "type": "mod",
+      "editable": false,
+      "sha1": "47455c48ff84c0ba42936a95a1bb3709689e24cf",
+      "murmur": "1641446767"
+    },
+    {
+      "file": "/mods/more_villargers-2.5.8-forge-1.20.1.jar",
+      "size": "1802396",
+      "type": "mod",
+      "editable": false,
+      "sha1": "0070a50d60e955c79a7e720d601ac77fb20939a6",
+      "murmur": "661711057"
+    },
+    {
+      "file": "/mods/AdvancedPeripherals-1.20.1-0.7.40r.jar",
+      "size": "873596",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7539bceac5fef456e30940c5cb0d924ba7cb3f91",
+      "murmur": "3665193106"
+    },
+    {
+      "file": "/mods/voicechat-forge-1.20.1-2.5.20.jar",
+      "size": "7715660",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c5a2b8c36ae4548cbfb566002d809d2e46823d3b",
+      "murmur": "1491175700"
+    },
+    {
+      "file": "/mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+      "size": "24607",
+      "type": "mod",
+      "editable": false,
+      "sha1": "dd8b3252f980da6ff4bc39127a84d786cf0bd06f",
+      "murmur": "3934588051"
+    },
+    {
+      "file": "/mods/trackwork-1.20.1-1.0.1-beta.jar",
+      "size": "454632",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e2b4bbeb7928b90e70837902853c6ee016b88035",
+      "murmur": "1481741875"
+    },
+    {
+      "file": "/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "size": "473564",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
+      "murmur": "3427826798"
+    },
+    {
+      "file": "/mods/JadeAddons-1.20.1-Forge-5.3.0.jar",
+      "size": "75658",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1b7af26c7ea4e6528c5c762927b0f80c104f9bda",
+      "murmur": "2312996257"
+    },
+    {
+      "file": "/mods/citadel-2.6.0-1.20.1.jar",
+      "size": "3173174",
+      "type": "mod",
+      "editable": false,
+      "sha1": "fed1e7cb25232d31aaebe86f4ebafe8d9b663387",
+      "murmur": "1509781679"
+    },
+    {
+      "file": "/mods/idas_forge-1.10.1+1.20.1.jar",
+      "size": "11337197",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7c922fe56db992012dab72c555447431ad9d4dfe",
+      "murmur": "3783790112"
+    },
+    {
+      "file": "/mods/Rats-1.20.1-8.1.2.jar",
+      "size": "8408175",
+      "type": "mod",
+      "editable": false,
+      "sha1": "27505c72565156018e8c9219c14bc1f2b8bd1233",
+      "murmur": "2674589977"
+    },
+    {
+      "file": "/mods/YungsExtras-1.20-Forge-4.0.3.jar",
+      "size": "200341",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
+      "murmur": "946802158"
+    },
+    {
+      "file": "/mods/dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar",
+      "size": "341992",
+      "type": "mod",
+      "editable": false,
+      "sha1": "442994e718d933df2b6f7c94479d135bf60e9b3c",
+      "murmur": "3075320095"
+    },
+    {
+      "file": "/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "size": "1033262",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+      "murmur": "1334321869"
+    },
+    {
+      "file": "/mods/mcw-holidays-1.1.0-mc1.20.1forge.jar",
+      "size": "1028361",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1a798ac5730db656c2149412dc3006c32494eaf9",
+      "murmur": "2279820177"
+    },
+    {
+      "file": "/mods/mcw-windows-2.3.0-mc1.20.1forge.jar",
+      "size": "1309586",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3d1f0d0334126b6014c43bf496776366620d0229",
+      "murmur": "996968697"
+    },
+    {
+      "file": "/mods/ironfurnaces-1.20.1-4.1.6.jar",
+      "size": "609038",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ce28ca1679c9c353b8e4391b45499f16b19b6648",
+      "murmur": "2641022404"
+    },
+    {
+      "file": "/mods/dummmmmmy-1.20-1.8.19.jar",
+      "size": "338618",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b5c1756281d437db03ff9ae6e9ce4f12264ab1ed",
+      "murmur": "133084499"
+    },
+    {
+      "file": "/mods/ctov-create-structures-1.0.jar",
+      "size": "106910",
+      "type": "mod",
+      "editable": false,
+      "sha1": "0df9a99982e36f86dc1b6fd5b4c753af3c84e5ae",
+      "murmur": "2650128351"
+    },
+    {
+      "file": "/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "size": "181437",
+      "type": "mod",
+      "editable": false,
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "murmur": "2854309810"
+    },
+    {
+      "file": "/mods/create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+      "size": "406243",
+      "type": "mod",
+      "editable": false,
+      "sha1": "c259fe1bb0396e160e0f1ab7f5ab8dccdab4ab1a",
+      "murmur": "2345168682"
+    },
+    {
+      "file": "/mods/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
+      "size": "2003765",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f64d914a863098e2bb58403e1e120a3eccd34393",
+      "murmur": "723868157"
+    },
+    {
+      "file": "/mods/PuzzlesLib-v8.1.22-1.20.1-Forge.jar",
+      "size": "1001920",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4a4b87f46a8f77cc09128a1a88da5f6dce7c35fc",
+      "murmur": "4067458092"
     },
     {
       "file": "/mods/interiors-0.5.4+forge-mc1.20.1.jar",
@@ -958,252 +1294,28 @@
       "murmur": "4081965825"
     },
     {
-      "file": "/mods/eureka-1201-1.5.1-beta.3.jar",
-      "size": "501311",
+      "file": "/mods/Prism-1.20.1-forge-1.0.5.jar",
+      "size": "52205",
       "type": "mod",
       "editable": false,
-      "sha1": "e506f80fb2ece9c54b80df2256980b0b97705b40",
-      "murmur": "2267337675"
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "murmur": "1812222466"
     },
     {
-      "file": "/mods/newagealexscaves-1.20.1-1.0.0.jar",
-      "size": "137549",
+      "file": "/mods/better-nether-9.0.10.jar",
+      "size": "22981698",
       "type": "mod",
       "editable": false,
-      "sha1": "b1005d83d38ff4fd66658881fb2bd31449f708a9",
-      "murmur": "3277170627"
+      "sha1": "7247c4b3f319f828205fc9f195261c46a24280ec",
+      "murmur": "2589723847"
     },
     {
-      "file": "/mods/YungsApi-1.20-Forge-4.0.5.jar",
-      "size": "365910",
+      "file": "/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "size": "792381",
       "type": "mod",
       "editable": false,
-      "sha1": "c3a989fdf8429828bd784e35e83f89c0786b43de",
-      "murmur": "296382396"
-    },
-    {
-      "file": "/mods/embeddiumplus-1.20.1-v1.2.13.jar",
-      "size": "895427",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
-      "murmur": "2532503508"
-    },
-    {
-      "file": "/mods/simplyswords-forge-1.56.0-1.20.1.jar",
-      "size": "15202091",
-      "type": "mod",
-      "editable": false,
-      "sha1": "ff801e939da0f9afc2d96cce4375d8c4bb368533",
-      "murmur": "3196160906"
-    },
-    {
-      "file": "/mods/bclib-3.0.14.jar",
-      "size": "2312835",
-      "type": "mod",
-      "editable": false,
-      "sha1": "34be724165bfe1207542f26551b10925d099eee1",
-      "murmur": "1215893195"
-    },
-    {
-      "file": "/mods/immersive_melodies-0.3.0+1.20.1-forge.jar",
-      "size": "2563768",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1c08962403538f247e9782e0618919af3c818aa7",
-      "murmur": "4153093687"
-    },
-    {
-      "file": "/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
-      "size": "918012",
-      "type": "mod",
-      "editable": false,
-      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
-      "murmur": "3061133685"
-    },
-    {
-      "file": "/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
-      "size": "1033262",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
-      "murmur": "1334321869"
-    },
-    {
-      "file": "/mods/pamhc2foodextended-1.20.4-1.0.1.jar",
-      "size": "2062882",
-      "type": "mod",
-      "editable": false,
-      "sha1": "5939df90ec025f90e502d6e735081103860bbd0f",
-      "murmur": "3531684027"
-    },
-    {
-      "file": "/mods/CyclopsCore-1.20.1-1.19.5.jar",
-      "size": "905982",
-      "type": "mod",
-      "editable": false,
-      "sha1": "226e70adb09a8b770fbd3b443839c6d8b52be114",
-      "murmur": "2229948867"
-    },
-    {
-      "file": "/mods/journeymap-1.20.1-5.10.1-forge.jar",
-      "size": "7160218",
-      "type": "mod",
-      "editable": false,
-      "sha1": "bc34ab9d66878d054af37d7b8f914062ba34f4d7",
-      "murmur": "3887974662"
-    },
-    {
-      "file": "/mods/copycats-2.1.2+mc.1.20.1-forge.jar",
-      "size": "1739265",
-      "type": "mod",
-      "editable": false,
-      "sha1": "74ae3b05fa0fcc2b3f252e1748432fe0bf3fcf72",
-      "murmur": "2967527248"
-    },
-    {
-      "file": "/mods/jei-1.20.1-forge-15.14.0.64.jar",
-      "size": "1344539",
-      "type": "mod",
-      "editable": false,
-      "sha1": "beb25ca72ed6582d1447d3047703044a7c283c5b",
-      "murmur": "2018679601"
-    },
-    {
-      "file": "/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
-      "size": "61525",
-      "type": "mod",
-      "editable": false,
-      "sha1": "0b0a3ff3b244fa191b3f9580547071dee46f7276",
-      "murmur": "3277503590"
-    },
-    {
-      "file": "/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "size": "181437",
-      "type": "mod",
-      "editable": false,
-      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
-      "murmur": "2854309810"
-    },
-    {
-      "file": "/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
-      "size": "262412",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3a715b0c8e9244a0d6aace3e3d2f863a62ddc3bc",
-      "murmur": "847566940"
-    },
-    {
-      "file": "/mods/AdvancedPeripherals-1.20.1-0.7.40r.jar",
-      "size": "873596",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7539bceac5fef456e30940c5cb0d924ba7cb3f91",
-      "murmur": "3665193106"
-    },
-    {
-      "file": "/mods/ironchest-1.20.1-14.4.4.jar",
-      "size": "311290",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
-      "murmur": "4008180508"
-    },
-    {
-      "file": "/mods/trashcans-1.0.18b-forge-mc1.20.jar",
-      "size": "158164",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4bc991b861a981921d06b731368239ce6ea571d3",
-      "murmur": "257456827"
-    },
-    {
-      "file": "/mods/Jade-1.20.1-forge-11.11.1.jar",
-      "size": "547726",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7ec2e10db945924166447ea64ebaad7a142651eb",
-      "murmur": "1433944158"
-    },
-    {
-      "file": "/mods/chat_heads-0.12.13-forge-1.20.jar",
-      "size": "251048",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4336cfb8f7b93d6dfac71713df475e8ed819b2df",
-      "murmur": "2905075516"
-    },
-    {
-      "file": "/mods/BOMD-Forge-1.20.1-1.1.2.jar",
-      "size": "1753623",
-      "type": "mod",
-      "editable": false,
-      "sha1": "232eb28172423cde46e8e1f038c670a01471fa92",
-      "murmur": "2846698925"
-    },
-    {
-      "file": "/mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
-      "size": "82055",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7ebf579edcf2440eadf1ed6c8c895e1bc2d77bf1",
-      "murmur": "4128376141"
-    },
-    {
-      "file": "/mods/sleep-v.2.1.2.jar",
-      "size": "123632",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c7fc478b1cd38dd5c368a68f61bdacc15a44d0ae",
-      "murmur": "283388134"
-    },
-    {
-      "file": "/mods/integrated_api-1.5.1+1.20.1-forge.jar",
-      "size": "683711",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f26d3cd0f80510d478a7f867ee59fe878192e9b0",
-      "murmur": "3940101116"
-    },
-    {
-      "file": "/mods/immersive_weathering-1.20.1-2.0.1-forge.jar",
-      "size": "2606416",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b63082f6415c470336b1e36a37421e8f6a9948fd",
-      "murmur": "937994392"
-    },
-    {
-      "file": "/mods/AdvancementPlaques-1.20.1-forge-1.5.1.jar",
-      "size": "210148",
-      "type": "mod",
-      "editable": false,
-      "sha1": "459bf06be69d28ebf522d22905019cba785978c9",
-      "murmur": "1436288173"
-    },
-    {
-      "file": "/mods/mcw-roofs-2.3.1-mc1.20.1forge.jar",
-      "size": "1837373",
-      "type": "mod",
-      "editable": false,
-      "sha1": "a5a79469d88b81037e270c49d467491f94587f92",
-      "murmur": "3847416645"
-    },
-    {
-      "file": "/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
-      "size": "136630",
-      "type": "mod",
-      "editable": false,
-      "sha1": "46825dc0adc36c4b19591bb99f7d856bc2953749",
-      "murmur": "1682223364"
-    },
-    {
-      "file": "/mods/Alex's Mobs Music Mod 1.20.1.jar",
-      "size": "3916840",
-      "type": "mod",
-      "editable": false,
-      "sha1": "22686361f79e82714ca9f6d11e545ade65bb3209",
-      "murmur": "3974694848"
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "murmur": "1320004755"
     },
     {
       "file": "/mods/mcw-furniture-3.3.0-mc1.20.1forge.jar",
@@ -1214,380 +1326,12 @@
       "murmur": "1766371244"
     },
     {
-      "file": "/mods/notenoughanimations-forge-1.7.5-mc1.20.1.jar",
-      "size": "429347",
+      "file": "/mods/ImmersiveThunder-1.20.1+1.2.2.jar",
+      "size": "3305823",
       "type": "mod",
       "editable": false,
-      "sha1": "62963e66300ca75e7eddc4c47036d7b7bcda34c5",
-      "murmur": "4091199669"
-    },
-    {
-      "file": "/mods/caelus-forge-3.2.0+1.20.1.jar",
-      "size": "40125",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
-      "murmur": "1608779766"
-    },
-    {
-      "file": "/mods/create_power_loader-1.5.0-mc1.20.1.jar",
-      "size": "223428",
-      "type": "mod",
-      "editable": false,
-      "sha1": "15c83719f60df6108780ea7106436c639a4b9247",
-      "murmur": "977064639"
-    },
-    {
-      "file": "/mods/Highlighter-1.20.1-forge-1.1.9.jar",
-      "size": "29438",
-      "type": "mod",
-      "editable": false,
-      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
-      "murmur": "3155872847"
-    },
-    {
-      "file": "/mods/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
-      "size": "196564",
-      "type": "mod",
-      "editable": false,
-      "sha1": "3110f2ebf08d512e362c4397388144d8f75a0f7b",
-      "murmur": "2048960966"
-    },
-    {
-      "file": "/mods/lootr-forge-1.20-0.7.34.85.jar",
-      "size": "345280",
-      "type": "mod",
-      "editable": false,
-      "sha1": "03bb7cc236f4ccbdd1de6c7fb9411134f08090a0",
-      "murmur": "3518928172"
-    },
-    {
-      "file": "/mods/Resourcify (1.20-1.20.1-forge)-1.4.1.jar",
-      "size": "2449277",
-      "type": "mod",
-      "editable": false,
-      "sha1": "bccf431dfca680376be6819e9bb0105695c4b0fc",
-      "murmur": "3000478554"
-    },
-    {
-      "file": "/mods/miners_delight-1.20.1-1.2.3.jar",
-      "size": "474112",
-      "type": "mod",
-      "editable": false,
-      "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5",
-      "murmur": "393687547"
-    },
-    {
-      "file": "/mods/dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar",
-      "size": "341992",
-      "type": "mod",
-      "editable": false,
-      "sha1": "442994e718d933df2b6f7c94479d135bf60e9b3c",
-      "murmur": "3075320095"
-    },
-    {
-      "file": "/mods/starlight-1.1.2+forge.1cda73c.jar",
-      "size": "110583",
-      "type": "mod",
-      "editable": false,
-      "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
-      "murmur": "3834769597"
-    },
-    {
-      "file": "/mods/createoreexcavation-1.20-1.5.0.jar",
-      "size": "381147",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d1d085b0352e9fc037aff294ef06ffccc463ca70",
-      "murmur": "1298983500"
-    },
-    {
-      "file": "/mods/tectonic-forge-1.19.3-2.3.5a.jar",
-      "size": "310120",
-      "type": "mod",
-      "editable": false,
-      "sha1": "25c603e099928ad75c2020b351fe448f1dd68e44",
-      "murmur": "3939429288"
-    },
-    {
-      "file": "/mods/Iceberg-1.20.1-forge-1.1.21.jar",
-      "size": "133685",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1692af84ef74a07b1f2e5dcdbff821effafdd24b",
-      "murmur": "1263770713"
-    },
-    {
-      "file": "/mods/IronJetpacks-1.20.1-7.0.6.jar",
-      "size": "158052",
-      "type": "mod",
-      "editable": false,
-      "sha1": "33e3c77c82ebe8aa3502ae29047262ff553a5d8d",
-      "murmur": "3681491875"
-    },
-    {
-      "file": "/mods/createframed-1.20.1-1.4.5.1.jar",
-      "size": "802017",
-      "type": "mod",
-      "editable": false,
-      "sha1": "b592043e7a8a99f4e5fafbb6dbfe6fb2aba2034b",
-      "murmur": "598843810"
-    },
-    {
-      "file": "/mods/sophisticatedcore-1.20.1-0.6.25.632.jar",
-      "size": "1081218",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6b409d016f1fbc79949793a8290e31b56efd8ba9",
-      "murmur": "495813425"
-    },
-    {
-      "file": "/mods/alexscavesdelight-1.0.11-1.20.1.jar",
-      "size": "30266",
-      "type": "mod",
-      "editable": false,
-      "sha1": "dc3ecc3f2f0840484d8b429e224802e263ee4919",
-      "murmur": "621236118"
-    },
-    {
-      "file": "/mods/create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
-      "size": "406243",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c259fe1bb0396e160e0f1ab7f5ab8dccdab4ab1a",
-      "murmur": "2345168682"
-    },
-    {
-      "file": "/mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
-      "size": "241148",
-      "type": "mod",
-      "editable": false,
-      "sha1": "83cccb66e679d72345a5194e4ca520f647bc97e6",
-      "murmur": "222529288"
-    },
-    {
-      "file": "/mods/Prism-1.20.1-forge-1.0.5.jar",
-      "size": "52205",
-      "type": "mod",
-      "editable": false,
-      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
-      "murmur": "1812222466"
-    },
-    {
-      "file": "/mods/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
-      "size": "4726281",
-      "type": "mod",
-      "editable": false,
-      "sha1": "647b4dfdb721fc873092ccfaca40c03235034ed8",
-      "murmur": "406813622"
-    },
-    {
-      "file": "/mods/botarium-forge-1.20.1-2.3.4.jar",
-      "size": "157633",
-      "type": "mod",
-      "editable": false,
-      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
-      "murmur": "752547332"
-    },
-    {
-      "file": "/mods/clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar",
-      "size": "3205758",
-      "type": "mod",
-      "editable": false,
-      "sha1": "8005a91686ddd2197668d2a5fa41d7f7247273de",
-      "murmur": "3161906158"
-    },
-    {
-      "file": "/mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
-      "size": "343962",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
-      "murmur": "2325681367"
-    },
-    {
-      "file": "/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-      "size": "179190",
-      "type": "mod",
-      "editable": false,
-      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
-      "murmur": "1089403503"
-    },
-    {
-      "file": "/mods/create-structures-0.1.1-1.20.1-FORGE.jar",
-      "size": "484781",
-      "type": "mod",
-      "editable": false,
-      "sha1": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8",
-      "murmur": "3998609351"
-    },
-    {
-      "file": "/mods/garnished-1.9.8+1.20.1-neoforged.jar",
-      "size": "3111207",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d8e7b37e8c9536978ccc4461e7b178af429be5b5",
-      "murmur": "366308703"
-    },
-    {
-      "file": "/mods/createtabfix-0.0.1.jar",
-      "size": "4455",
-      "type": "mod",
-      "editable": false,
-      "sha1": "8a90cd87356c07bcaa494e33effefce54d202cb1",
-      "murmur": "2088174066"
-    },
-    {
-      "file": "/mods/createaddition-1.20.1-1.2.4e.jar",
-      "size": "1515917",
-      "type": "mod",
-      "editable": false,
-      "sha1": "41f22b70ceb9f61db0306871f2ae9998b25ed4fd",
-      "murmur": "1415544755"
-    },
-    {
-      "file": "/mods/iron_ender_chests-1.20-1.0.3.jar",
-      "size": "88887",
-      "type": "mod",
-      "editable": false,
-      "sha1": "c6e82837421a51408f8fba79b08fd2554719777e",
-      "murmur": "3125454291"
-    },
-    {
-      "file": "/mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-      "size": "3041071",
-      "type": "mod",
-      "editable": false,
-      "sha1": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50",
-      "murmur": "495414893"
-    },
-    {
-      "file": "/mods/idas_forge-1.10.1+1.20.1.jar",
-      "size": "11337197",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7c922fe56db992012dab72c555447431ad9d4dfe",
-      "murmur": "3783790112"
-    },
-    {
-      "file": "/mods/modernfix-forge-5.19.3+mc1.20.1.jar",
-      "size": "778485",
-      "type": "mod",
-      "editable": false,
-      "sha1": "1ec2816e2946ddadde9451473a545c728ffedc5a",
-      "murmur": "505134859"
-    },
-    {
-      "file": "/mods/ctov-create-structures-1.0.jar",
-      "size": "106910",
-      "type": "mod",
-      "editable": false,
-      "sha1": "0df9a99982e36f86dc1b6fd5b4c753af3c84e5ae",
-      "murmur": "2650128351"
-    },
-    {
-      "file": "/mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
-      "size": "2864275",
-      "type": "mod",
-      "editable": false,
-      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
-      "murmur": "3793510333"
-    },
-    {
-      "file": "/mods/IntegratedTunnels-1.20.1-1.8.31.jar",
-      "size": "620572",
-      "type": "mod",
-      "editable": false,
-      "sha1": "4a96694a5fe212c177db70f3dd5cbd8d871e77f5",
-      "murmur": "1915670477"
-    },
-    {
-      "file": "/mods/tempad-forge-1.20.1-2.3.4.jar",
-      "size": "194421",
-      "type": "mod",
-      "editable": false,
-      "sha1": "04f4c46e58317dca0e5665cee65a7fba730112ad",
-      "murmur": "2824748626"
-    },
-    {
-      "file": "/mods/Zeta-1.0-24.jar",
-      "size": "991472",
-      "type": "mod",
-      "editable": false,
-      "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
-      "murmur": "3876270406"
-    },
-    {
-      "file": "/mods/FarmersDelight-1.20.1-1.2.4.jar",
-      "size": "2915349",
-      "type": "mod",
-      "editable": false,
-      "sha1": "71daa55fd88b6f181c51ec6892600415df591f64",
-      "murmur": "3051762991"
-    },
-    {
-      "file": "/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
-      "size": "272740",
-      "type": "mod",
-      "editable": false,
-      "sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
-      "murmur": "393521612"
-    },
-    {
-      "file": "/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
-      "size": "227925",
-      "type": "mod",
-      "editable": false,
-      "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
-      "murmur": "3221047096"
-    },
-    {
-      "file": "/mods/IntegratedCrafting-1.20.1-1.1.8.jar",
-      "size": "284658",
-      "type": "mod",
-      "editable": false,
-      "sha1": "38ad8e968b2897aced6d62e9f33254e1be979b6b",
-      "murmur": "694334470"
-    },
-    {
-      "file": "/mods/gravestone-forge-1.20.1-1.0.21.jar",
-      "size": "314943",
-      "type": "mod",
-      "editable": false,
-      "sha1": "52e66870fcfe37cef9e4705fc92cc8d13adf0044",
-      "murmur": "411681125"
-    },
-    {
-      "file": "/mods/cc-tweaked-1.20.1-forge-1.113.0.jar",
-      "size": "3168208",
-      "type": "mod",
-      "editable": false,
-      "sha1": "0719de28019600e2d7ac8c9debe4c851a1905fe9",
-      "murmur": "3003253313"
-    },
-    {
-      "file": "/mods/create_factory-0.4b-1.20.1.jar",
-      "size": "263934",
-      "type": "mod",
-      "editable": false,
-      "sha1": "977b5f5f75f7449bde8f7ab7f1405d55ec225729",
-      "murmur": "1913119869"
-    },
-    {
-      "file": "/mods/spark-1.10.53-forge.jar",
-      "size": "3114590",
-      "type": "mod",
-      "editable": false,
-      "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
-      "murmur": "1515254383"
-    },
-    {
-      "file": "/mods/create_jetpack_curios-1.0.0-forge-1.20.1.jar",
-      "size": "78631",
-      "type": "mod",
-      "editable": false,
-      "sha1": "552acc8052466c6d4166b112c8b1dd404b91ed8c",
-      "murmur": "2113564603"
+      "sha1": "c9145d76adcb75cc21482e8e4b0d7cbb5b51f230",
+      "murmur": "1483624458"
     },
     {
       "file": "/mods/Controlling-forge-1.20.1-12.0.2.jar",
@@ -1598,84 +1342,36 @@
       "murmur": "2626540686"
     },
     {
-      "file": "/mods/cccbridge-mc1.20.1-forge-1.6.3.jar",
-      "size": "289381",
+      "file": "/mods/starlight-1.1.2+forge.1cda73c.jar",
+      "size": "110583",
       "type": "mod",
       "editable": false,
-      "sha1": "78a03348b3c1f26170cd1171b3a8ca8fbb34a272",
-      "murmur": "2254926606"
+      "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+      "murmur": "3834769597"
     },
     {
-      "file": "/mods/Ping-Wheel-1.9.1-forge-1.20.1.jar",
-      "size": "102767",
+      "file": "/mods/bclib-3.0.14.jar",
+      "size": "2312835",
       "type": "mod",
       "editable": false,
-      "sha1": "12a0bc2217a6cf7254c1292e41807517979efe78",
-      "murmur": "1228643768"
+      "sha1": "34be724165bfe1207542f26551b10925d099eee1",
+      "murmur": "1215893195"
     },
     {
-      "file": "/mods/Old Infrastructure 1.20.1.jar",
-      "size": "4802339",
+      "file": "/mods/FarmersDelight-1.20.1-1.2.4.jar",
+      "size": "2915349",
       "type": "mod",
       "editable": false,
-      "sha1": "3066835b83cd39e589c53cf45388e6202c24cb4f",
-      "murmur": "3839724588"
+      "sha1": "71daa55fd88b6f181c51ec6892600415df591f64",
+      "murmur": "3051762991"
     },
     {
-      "file": "/mods/ctov-farmers-delight-compat-2.1.jar",
-      "size": "197762",
+      "file": "/mods/nethersdelight-1.20.1-4.0.jar",
+      "size": "366047",
       "type": "mod",
       "editable": false,
-      "sha1": "b410287b852c235c7ef2735f7c683df8db84de3a",
-      "murmur": "3963774401"
-    },
-    {
-      "file": "/mods/YungsBridges-1.20-Forge-4.0.3.jar",
-      "size": "136236",
-      "type": "mod",
-      "editable": false,
-      "sha1": "88467fe87b95e6cf7a432822033cf74dd8586254",
-      "murmur": "2453817392"
-    },
-    {
-      "file": "/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
-      "size": "115947",
-      "type": "mod",
-      "editable": false,
-      "sha1": "9bfb5d63ac2e03ecdab8755c968ffa25b799469b",
-      "murmur": "1186236462"
-    },
-    {
-      "file": "/mods/athena-forge-1.20.1-3.1.2.jar",
-      "size": "91808",
-      "type": "mod",
-      "editable": false,
-      "sha1": "2acee24454af859988a691f0506271a465f68f7b",
-      "murmur": "3211401917"
-    },
-    {
-      "file": "/mods/bellsandwhistles-0.4.3-1.20.x.jar",
-      "size": "196447",
-      "type": "mod",
-      "editable": false,
-      "sha1": "7cb1e1dc365c43f08ee7616f1505759e547b11be",
-      "murmur": "1896077010"
-    },
-    {
-      "file": "/mods/[Forge]CTOV-v3.4.5.jar",
-      "size": "5269872",
-      "type": "mod",
-      "editable": false,
-      "sha1": "f988d72fed45239a4c0a5040e6ea1e8d1ecdedfd",
-      "murmur": "1720782862"
-    },
-    {
-      "file": "/mods/skinlayers3d-forge-1.6.7-mc1.20.1.jar",
-      "size": "477509",
-      "type": "mod",
-      "editable": false,
-      "sha1": "bf4a2535bda9d83d3669a0e82d37be654e5714a1",
-      "murmur": "2810862165"
+      "sha1": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838",
+      "murmur": "2015586322"
     },
     {
       "file": "/mods/aquamirae-6.API15.jar",
@@ -1686,100 +1382,132 @@
       "murmur": "883888554"
     },
     {
-      "file": "/mods/cc_vs-1.20.1-forge-0.1.0.jar",
-      "size": "555165",
+      "file": "/mods/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
+      "size": "4726281",
       "type": "mod",
       "editable": false,
-      "sha1": "8898beb860d41060059616a1528ae713c5643f49",
-      "murmur": "3207161271"
+      "sha1": "647b4dfdb721fc873092ccfaca40c03235034ed8",
+      "murmur": "406813622"
     },
     {
-      "file": "/mods/mcw-paths-1.0.5-1.20.1forge.jar",
-      "size": "611100",
+      "file": "/mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "size": "61525",
       "type": "mod",
       "editable": false,
-      "sha1": "44c7dbd747678b89e5e0021c424cbbfb940b3194",
-      "murmur": "3657019825"
+      "sha1": "0b0a3ff3b244fa191b3f9580547071dee46f7276",
+      "murmur": "3277503590"
     },
     {
-      "file": "/mods/create-1.20.1-0.5.1.f.jar",
-      "size": "14964127",
+      "file": "/mods/create-stuff-additions1.20.1_v2.0.4a.jar",
+      "size": "1151274",
       "type": "mod",
       "editable": false,
-      "sha1": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0",
-      "murmur": "149669326"
+      "sha1": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96",
+      "murmur": "2388542083"
     },
     {
-      "file": "/mods/mcw-windows-2.3.0-mc1.20.1forge.jar",
-      "size": "1309586",
+      "file": "/mods/cristellib-1.1.5-forge.jar",
+      "size": "431448",
       "type": "mod",
       "editable": false,
-      "sha1": "3d1f0d0334126b6014c43bf496776366620d0229",
-      "murmur": "996968697"
+      "sha1": "8a43951083ea9096a91f81757004465f4afc7cab",
+      "murmur": "785667465"
     },
     {
-      "file": "/mods/sol_valheim-1.1.1-4.jar",
-      "size": "43086",
+      "file": "/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "size": "387111",
       "type": "mod",
       "editable": false,
-      "sha1": "456d16a347557498cf0a543d717b4c680a9831c0",
-      "murmur": "563015222"
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+      "murmur": "3970260058"
     },
     {
-      "file": "/mods/Rats-1.20.1-8.1.2.jar",
-      "size": "8408175",
+      "file": "/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "size": "806652",
       "type": "mod",
       "editable": false,
-      "sha1": "27505c72565156018e8c9219c14bc1f2b8bd1233",
-      "murmur": "2674589977"
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+      "murmur": "2549372144"
     },
     {
-      "file": "/mods/obscure_api-15.jar",
-      "size": "497136",
+      "file": "/mods/ctov-rats-compat-1.0.jar",
+      "size": "39382",
       "type": "mod",
       "editable": false,
-      "sha1": "30e37354519b4ca06bc617ccb2698cc696fdae9b",
-      "murmur": "2706278083"
+      "sha1": "151445dfc957070436c085e91c26e62aa402c7f1",
+      "murmur": "3616257386"
     },
     {
-      "file": "/mods/coroutil-forge-1.20.1-1.3.7.jar",
-      "size": "64187",
+      "file": "/mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "size": "29438",
       "type": "mod",
       "editable": false,
-      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
-      "murmur": "1380297823"
+      "sha1": "644dc33b1745ad100f513b4d169ace86fff3b2bf",
+      "murmur": "3155872847"
     },
     {
-      "file": "/mods/MRU-1.0.2+1.20.1+forge.jar",
-      "size": "287062",
+      "file": "/mods/Patchouli-1.20.1-84-FORGE.jar",
+      "size": "642506",
       "type": "mod",
       "editable": false,
-      "sha1": "3a8c1695dcb3d46ea169c26e16f73a073c7c5c3c",
-      "murmur": "1449918009"
+      "sha1": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
+      "murmur": "1862914209"
     },
     {
-      "file": "/mods/watut-forge-1.20.1-1.1.3.jar",
-      "size": "352474",
+      "file": "/mods/caelus-forge-3.2.0+1.20.1.jar",
+      "size": "40125",
       "type": "mod",
       "editable": false,
-      "sha1": "869600c0d3fc7ca12f534bcc1d89ba03fac3c0c3",
-      "murmur": "2854843126"
+      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
+      "murmur": "1608779766"
     },
     {
-      "file": "/mods/ctov-more-villagers-compat-2.0.jar",
-      "size": "350448",
+      "file": "/mods/Alex's Mobs Music Mod 1.20.1.jar",
+      "size": "3916840",
       "type": "mod",
       "editable": false,
-      "sha1": "6dd5f02a340cf96a8b701bddc73dd2304ee912ef",
-      "murmur": "4289718046"
+      "sha1": "22686361f79e82714ca9f6d11e545ade65bb3209",
+      "murmur": "3974694848"
     },
     {
-      "file": "/mods/moonlight-1.20-2.12.17-forge.jar",
-      "size": "1167666",
+      "file": "/mods/IntegratedTerminals-1.20.1-1.5.1.jar",
+      "size": "548871",
       "type": "mod",
       "editable": false,
-      "sha1": "e1f740f198248f04699fcf635051bebdbc9d1c3b",
-      "murmur": "846730357"
+      "sha1": "938e34640707614ad2b5b05cfc32f54f944100e6",
+      "murmur": "1927665373"
+    },
+    {
+      "file": "/mods/entityculling-forge-1.7.0-mc1.20.1.jar",
+      "size": "71441",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d2edb93aefdc1b104a8ef975e72c53796b752293",
+      "murmur": "2373206346"
+    },
+    {
+      "file": "/mods/botarium-forge-1.20.1-2.3.4.jar",
+      "size": "157633",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "murmur": "752547332"
+    },
+    {
+      "file": "/mods/mcw-lights-1.1.0-mc1.20.1forge.jar",
+      "size": "517513",
+      "type": "mod",
+      "editable": false,
+      "sha1": "54325ec072a23df892bfbf1c03e917e372eb2ca0",
+      "murmur": "2206385898"
+    },
+    {
+      "file": "/mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "size": "215119",
+      "type": "mod",
+      "editable": false,
+      "sha1": "31ae930cdbb34e8e05e1954cfb2fee3a3813e850",
+      "murmur": "3701495044"
     },
     {
       "file": "/mods/chefs-delight-1.0.3-forge-1.20.1.jar",
@@ -1790,44 +1518,124 @@
       "murmur": "4191544584"
     },
     {
-      "file": "/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-      "size": "76237",
+      "file": "/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "size": "756864",
       "type": "mod",
       "editable": false,
-      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
-      "murmur": "3001740257"
+      "sha1": "1eca21b906d38321bf60919dd3b12d160e5e6935",
+      "murmur": "1652112087"
     },
     {
-      "file": "/mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
-      "size": "24607",
+      "file": "/mods/create_misc_and_things_ 1.20.1_4.0A.jar",
+      "size": "1014347",
       "type": "mod",
       "editable": false,
-      "sha1": "dd8b3252f980da6ff4bc39127a84d786cf0bd06f",
-      "murmur": "3934588051"
+      "sha1": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17",
+      "murmur": "3682175163"
     },
     {
-      "file": "/mods/CreativeCore_FORGE_v2.11.37_mc1.20.1.jar",
-      "size": "1115420",
+      "file": "/mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "size": "343962",
       "type": "mod",
       "editable": false,
-      "sha1": "efeb55b59dc317b44cb7b621824a4eb60c5109bb",
-      "murmur": "19349671"
+      "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+      "murmur": "2325681367"
     },
     {
-      "file": "/mods/ferritecore-6.0.1-forge.jar",
-      "size": "123034",
+      "file": "/mods/moonlight-1.20-2.12.17-forge.jar",
+      "size": "1167666",
       "type": "mod",
       "editable": false,
-      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
-      "murmur": "2683111440"
+      "sha1": "e1f740f198248f04699fcf635051bebdbc9d1c3b",
+      "murmur": "846730357"
     },
     {
-      "file": "/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-      "size": "473564",
+      "file": "/mods/sophisticatedcore-1.20.1-0.6.25.632.jar",
+      "size": "1081218",
       "type": "mod",
       "editable": false,
-      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
-      "murmur": "3427826798"
+      "sha1": "6b409d016f1fbc79949793a8290e31b56efd8ba9",
+      "murmur": "495813425"
+    },
+    {
+      "file": "/mods/notenoughanimations-forge-1.7.5-mc1.20.1.jar",
+      "size": "429347",
+      "type": "mod",
+      "editable": false,
+      "sha1": "62963e66300ca75e7eddc4c47036d7b7bcda34c5",
+      "murmur": "4091199669"
+    },
+    {
+      "file": "/mods/clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar",
+      "size": "3205758",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8005a91686ddd2197668d2a5fa41d7f7247273de",
+      "murmur": "3161906158"
+    },
+    {
+      "file": "/mods/eureka-1201-1.5.1-beta.3.jar",
+      "size": "501311",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e506f80fb2ece9c54b80df2256980b0b97705b40",
+      "murmur": "2267337675"
+    },
+    {
+      "file": "/mods/IntegratedDynamics-1.20.1-1.23.2.jar",
+      "size": "4038745",
+      "type": "mod",
+      "editable": false,
+      "sha1": "159193734dc359f9f488240bf1c0550c8694430d",
+      "murmur": "772773165"
+    },
+    {
+      "file": "/mods/Lexiconfig-forge-1.3.11.jar",
+      "size": "38240",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b43672fda8de755cd822d3c4cc9a67f65a9ea5d1",
+      "murmur": "3188521918"
+    },
+    {
+      "file": "/mods/ironchest-1.20.1-14.4.4.jar",
+      "size": "311290",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
+      "murmur": "4008180508"
+    },
+    {
+      "file": "/mods/pamhc2foodextended-1.20.4-1.0.1.jar",
+      "size": "2062882",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5939df90ec025f90e502d6e735081103860bbd0f",
+      "murmur": "3531684027"
+    },
+    {
+      "file": "/mods/embeddiumplus-1.20.1-v1.2.13.jar",
+      "size": "895427",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
+      "murmur": "2532503508"
+    },
+    {
+      "file": "/mods/integrated_api-1.5.1+1.20.1-forge.jar",
+      "size": "683711",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f26d3cd0f80510d478a7f867ee59fe878192e9b0",
+      "murmur": "3940101116"
+    },
+    {
+      "file": "/mods/sliceanddice-forge-3.2.1.jar",
+      "size": "228307",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7a994acbc0dc2ae424078aab6ad7824142e82f69",
+      "murmur": "2363822667"
     },
     {
       "file": "/mods/seamless-loading-screen-2.0.3+1.20.1-forge.jar",
@@ -1838,12 +1646,212 @@
       "murmur": "2405603141"
     },
     {
-      "file": "/mods/BetterF3-7.0.2-Forge-1.20.1.jar",
-      "size": "468517",
+      "file": "/mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "size": "77732",
       "type": "mod",
       "editable": false,
-      "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
-      "murmur": "3838314854"
+      "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
+      "murmur": "3494294894"
+    },
+    {
+      "file": "/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "size": "492998",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+      "murmur": "1016555382"
+    },
+    {
+      "file": "/mods/ctov-croptopia-compat-2.2.jar",
+      "size": "790240",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1d47de1b53a484acbe3988cc43ecc3dc723b2778",
+      "murmur": "830105473"
+    },
+    {
+      "file": "/mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+      "size": "625488",
+      "type": "mod",
+      "editable": false,
+      "sha1": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38",
+      "murmur": "4053708632"
+    },
+    {
+      "file": "/mods/ctov-farmers-delight-compat-2.1.jar",
+      "size": "197762",
+      "type": "mod",
+      "editable": false,
+      "sha1": "b410287b852c235c7ef2735f7c683df8db84de3a",
+      "murmur": "3963774401"
+    },
+    {
+      "file": "/mods/protection_pixel-1.0.5-forge-1.20.1.jar",
+      "size": "2112790",
+      "type": "mod",
+      "editable": false,
+      "sha1": "9e287d94eeed992d833667664d9fa96f65bbd9e1",
+      "murmur": "3205101464"
+    },
+    {
+      "file": "/mods/ctov-chefs-delight-compat-2.0.jar",
+      "size": "100334",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6121998a194a0f423ba3bf199110d98f95dfb2fd",
+      "murmur": "2777310511"
+    },
+    {
+      "file": "/mods/Connector-1.0.0-beta.45+1.20.1.jar",
+      "size": "4680145",
+      "type": "other",
+      "editable": false,
+      "sha1": "bcbcdcfa0260df23800d26069588073b998e65e7",
+      "murmur": null
+    },
+    {
+      "file": "/mods/ferritecore-6.0.1-forge.jar",
+      "size": "123034",
+      "type": "mod",
+      "editable": false,
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "murmur": "2683111440"
+    },
+    {
+      "file": "/mods/mcw-roofs-2.3.1-mc1.20.1forge.jar",
+      "size": "1837373",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a5a79469d88b81037e270c49d467491f94587f92",
+      "murmur": "3847416645"
+    },
+    {
+      "file": "/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": "432753",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "murmur": "4227743239"
+    },
+    {
+      "file": "/mods/Zeta-1.0-24.jar",
+      "size": "991472",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
+      "murmur": "3876270406"
+    },
+    {
+      "file": "/mods/garnished-1.9.8+1.20.1-neoforged.jar",
+      "size": "3111207",
+      "type": "mod",
+      "editable": false,
+      "sha1": "d8e7b37e8c9536978ccc4461e7b178af429be5b5",
+      "murmur": "366308703"
+    },
+    {
+      "file": "/mods/s_a_b-1.3.1_1.20.1.jar",
+      "size": "1716160",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e0f4ec2b7e5ff3bb58aec3ef5536a9e4927f29e7",
+      "murmur": "2869492539"
+    },
+    {
+      "file": "/mods/watut-forge-1.20.1-1.1.3.jar",
+      "size": "352474",
+      "type": "mod",
+      "editable": false,
+      "sha1": "869600c0d3fc7ca12f534bcc1d89ba03fac3c0c3",
+      "murmur": "2854843126"
+    },
+    {
+      "file": "/mods/supplementaries-1.20-2.8.17.jar",
+      "size": "14534190",
+      "type": "mod",
+      "editable": false,
+      "sha1": "55ab43a1a9fc1f5ca4273c8c05403586f0c42fb6",
+      "murmur": "1990023027"
+    },
+    {
+      "file": "/mods/create-1.20.1-0.5.1.f.jar",
+      "size": "14964127",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0",
+      "murmur": "149669326"
+    },
+    {
+      "file": "/mods/tectonic-forge-1.19.3-2.3.5a.jar",
+      "size": "310120",
+      "type": "mod",
+      "editable": false,
+      "sha1": "25c603e099928ad75c2020b351fe448f1dd68e44",
+      "murmur": "3939429288"
+    },
+    {
+      "file": "/mods/geckolib-forge-1.20.1-4.4.7.jar",
+      "size": "991110",
+      "type": "mod",
+      "editable": false,
+      "sha1": "1e247d41675f16461fb93e37743be05d1d350a25",
+      "murmur": "2026905718"
+    },
+    {
+      "file": "/mods/storagedelight-2024.07.23-1.20.1-forge.jar",
+      "size": "286307",
+      "type": "mod",
+      "editable": false,
+      "sha1": "66394d73b5aef026698ad9f62e5d0ee65a6e1c70",
+      "murmur": "3335265732"
+    },
+    {
+      "file": "/mods/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+      "size": "677705",
+      "type": "mod",
+      "editable": false,
+      "sha1": "55bbc972179c77266bb709a0b177a9f772e34824",
+      "murmur": "2155596953"
+    },
+    {
+      "file": "/mods/createdeco-2.0.2-1.20.1-forge.jar",
+      "size": "3966138",
+      "type": "mod",
+      "editable": false,
+      "sha1": "606650f31ca0a5eb64d4bbb8fbaecf357a3bdb43",
+      "murmur": "2619900862"
+    },
+    {
+      "file": "/mods/chat_heads-0.12.13-forge-1.20.jar",
+      "size": "251048",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4336cfb8f7b93d6dfac71713df475e8ed819b2df",
+      "murmur": "2905075516"
+    },
+    {
+      "file": "/mods/Cucumber-1.20.1-7.0.11.jar",
+      "size": "269283",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ea5ede0227b479c0f235d0b73862795ccdb33f9a",
+      "murmur": "2136680840"
+    },
+    {
+      "file": "/mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+      "size": "82055",
+      "type": "mod",
+      "editable": false,
+      "sha1": "7ebf579edcf2440eadf1ed6c8c895e1bc2d77bf1",
+      "murmur": "4128376141"
+    },
+    {
+      "file": "/mods/valkyrienskies-120-2.3.0-beta.5.jar",
+      "size": "13774983",
+      "type": "mod",
+      "editable": false,
+      "sha1": "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a",
+      "murmur": "2723336174"
     }
   ]
 }
