@@ -1,8 +1,6 @@
 {
   "DO_NOT_CHANGE_IT": 1,
-  "selectedModpack": "185-219-84-49-25601-automodpack-",
-  "installedModpacks": {
-    "185-219-84-49-25601-automodpack-": "http://185.219.84.49:25601/automodpack/"
-  },
+  "selectedModpack": "",
+  "installedModpacks": {},
   "selfUpdater": false
 }

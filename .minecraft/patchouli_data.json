@@ -13,6 +13,13 @@
       "viewedEntries": [],
       "bookmarks": [],
       "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:transmutation"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
     }
   }
 }

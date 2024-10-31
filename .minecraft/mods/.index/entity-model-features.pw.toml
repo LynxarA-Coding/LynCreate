@@ -1,13 +1,16 @@
-filename = 'entity_model_features_forge_1.20.1-2.2.jar'
+filename = 'entity_model_features_forge_1.20.1-2.2.6.jar'
 name = 'Entity Model Features'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fae6f21c1645a6f08ff13970b3ad967417b173349e30a75afbce25fea090d15c50aa48f60961a5d350113ed30198a23be7b99d799b8d8e9f22a9e41242b20b59'
+hash = 'f0b3d467c7af10593969f1632cc827ebba289fa5795bb21c9da20dd1dc9ed59fba4018b07eb0552e94ac882af69bb6ab3188755511e48219fd9e1838e0cc11df'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4I1XuqiY/versions/vX76pGn2/entity_model_features_forge_1.20.1-2.2.jar'
+url = 'https://cdn.modrinth.com/data/4I1XuqiY/versions/SwaXdYpi/entity_model_features_forge_1.20.1-2.2.6.jar'
 
 [update.modrinth]
 mod-id = '4I1XuqiY'
-version = 'vX76pGn2'
+version = 'SwaXdYpi'

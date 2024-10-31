@@ -1,0 +1,22 @@
+{
+  "id": "Верх_837-85-953",
+  "name": "Верх",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16450047-waypoint-icon.png",
+  "x": 837,
+  "y": 85,
+  "z": 953,
+  "r": 4,
+  "g": 254,
+  "b": 1,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

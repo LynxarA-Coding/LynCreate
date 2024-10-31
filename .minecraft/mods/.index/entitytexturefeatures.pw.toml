@@ -1,13 +1,16 @@
-filename = 'entity_texture_features_forge_1.20.1-6.2.2.jar'
+filename = 'entity_texture_features_forge_1.20.1-6.2.5.jar'
 name = 'Entity Texture Features'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '53cff1a97d8ce8eea67b356463810d86ab0f7a43e979310bc8c388f77fd49ea5c80640d8410d099b49d6a342da1eca2d0e9b655da2f26aae5d20f93218655f5b'
+hash = 'c1dfa11805d8e0f5eb49e5e4a17d61f0822e15865de54b298c2c88e8104cfc360577705eb15e3ec943e8e562bf0aff4984413513c81b1663fb733474102d8ae2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/BVzZfTc1/versions/SyXDjC39/entity_texture_features_forge_1.20.1-6.2.2.jar'
+url = 'https://cdn.modrinth.com/data/BVzZfTc1/versions/GOfMvUim/entity_texture_features_forge_1.20.1-6.2.5.jar'
 
 [update.modrinth]
 mod-id = 'BVzZfTc1'
-version = 'SyXDjC39'
+version = 'GOfMvUim'
