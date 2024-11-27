@@ -1,0 +1,22 @@
+{
+  "id": "Fortress_3256-57-320",
+  "name": "Fortress",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--189696-waypoint-icon.png",
+  "x": 3256,
+  "y": 57,
+  "z": -320,
+  "r": 253,
+  "g": 27,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

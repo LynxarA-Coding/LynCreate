@@ -12,6 +12,19 @@
       "backupName": "automated",
       "backupFormat": "ZIP",
       "complete": false
+    },
+    {
+      "worldName": "aboba",
+      "createTime": 1732622400183,
+      "backupLocation": "C:\\Users\\LynxarAPC\\AppData\\Roaming\\PrismLauncher\\instances\\LynCreate\\.minecraft\\backups\\2024-11-26_13-0-0.zip",
+      "size": 7482053,
+      "ratio": 0.16770127,
+      "sha1": "dfcc51dfcd2997980d62e5f55b600f44f3f5e7d2",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
     }
   ]
 }

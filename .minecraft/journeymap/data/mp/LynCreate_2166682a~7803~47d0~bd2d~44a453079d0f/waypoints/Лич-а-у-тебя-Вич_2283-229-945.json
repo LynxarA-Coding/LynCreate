@@ -1,0 +1,22 @@
+{
+  "id": "Лич-а-у-тебя-Вич_2283-229-945",
+  "name": "Лич, а у тебя Вич",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8604706-waypoint-icon.png",
+  "x": 2283,
+  "y": 229,
+  "z": -945,
+  "r": 124,
+  "g": 179,
+  "b": 222,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
