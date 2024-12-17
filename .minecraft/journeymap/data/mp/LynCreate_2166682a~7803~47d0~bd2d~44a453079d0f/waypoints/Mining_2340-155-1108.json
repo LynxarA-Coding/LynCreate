@@ -1,0 +1,22 @@
+{
+  "id": "Mining_2340-155-1108",
+  "name": "Mining",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": 2340,
+  "y": 155,
+  "z": 1108,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "pattysminingdimension:mining"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

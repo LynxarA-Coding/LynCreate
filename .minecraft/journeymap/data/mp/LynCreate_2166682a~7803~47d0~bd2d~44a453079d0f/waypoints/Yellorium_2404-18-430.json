@@ -1,0 +1,22 @@
+{
+  "id": "Yellorium_2404-18-430",
+  "name": "Yellorium",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": 2404,
+  "y": 18,
+  "z": 430,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "pattysminingdimension:mining"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

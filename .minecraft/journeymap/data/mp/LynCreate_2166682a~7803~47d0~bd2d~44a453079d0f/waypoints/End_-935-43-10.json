@@ -1,0 +1,22 @@
+{
+  "id": "End_-935-43-10",
+  "name": "End",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130844-waypoint-icon.png",
+  "x": -935,
+  "y": 43,
+  "z": -10,
+  "r": 254,
+  "g": 0,
+  "b": 228,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "станция_1942-79-1072",
+  "name": "станция",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2788574-waypoint-icon.png",
+  "x": 1942,
+  "y": 79,
+  "z": 1072,
+  "r": 213,
+  "g": 115,
+  "b": 34,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

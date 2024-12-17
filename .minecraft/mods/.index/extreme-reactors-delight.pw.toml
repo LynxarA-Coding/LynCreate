@@ -1,0 +1,16 @@
+filename = 'extremereactorsdelight-1.0.1.2-1.20.1.jar'
+name = 'Extreme Reactors Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a2940804e6128083b13e0ae1e211129190c7f613a605a5058ab648bbae4d54df6dc273df0660604d4b23662577732e893569a7b748a62f640a06c8ddfe47a17'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1kLnMzlj/versions/LZkiZ4Nf/extremereactorsdelight-1.0.1.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '1kLnMzlj'
+version = 'LZkiZ4Nf'
